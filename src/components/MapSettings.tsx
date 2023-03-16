@@ -38,13 +38,13 @@ export function MapSettings(): JSX.Element {
     <div className="flex flex-col">
       <div className="flex flex-row items-center pb-2 border-b border-gray-300">
         <div className="flex-grow">
-          <h3 className="text-xl">Map Settings</h3>
+          <h3 className="text-xl">地图设置</h3>
         </div>
       </div>
       <div className="flex flex-grow flex-col gap-2">
         <label className="flex flex-row items-center">
           <div className="flex flex-col">
-            <h3 className="font-bold select-none">Enable Track Icons</h3>
+            <h3 className="font-bold select-none">雷达目标图标</h3>
             <p className="text-sm text-gray-700 select-none">
               Displays NATO symbology based on the type of radar track.
             </p>
@@ -64,7 +64,7 @@ export function MapSettings(): JSX.Element {
         </label>
         <label className="flex flex-row items-center">
           <div className="flex flex-col">
-            <h3 className="font-bold select-none">Enable Track Labels</h3>
+            <h3 className="font-bold select-none">雷达目标标签</h3>
             <p className="text-sm text-gray-700 select-none">
               Displays airframe type and NATO designation based on type of radar
               track.
@@ -86,7 +86,7 @@ export function MapSettings(): JSX.Element {
         <label className="flex flex-row items-center">
           <div className="flex flex-col">
             <h3 className="font-bold select-none">
-              Previous Ping Display Count
+              过往信号显示数量
             </h3>
             <p className="text-sm text-gray-700 select-none">
               Number of previous radar-sweep pings to display in-trail for a
@@ -109,7 +109,7 @@ export function MapSettings(): JSX.Element {
         </label>
         <label className="flex flex-row items-center">
           <div className="flex flex-col">
-            <h3 className="font-bold select-none">Ground Unit Display Mode</h3>
+            <h3 className="font-bold select-none">地面单位显示模式</h3>
             <p className="text-sm text-gray-700 select-none">
               Select which ground units to display. Some options may not be
               available based on server settings.
@@ -132,7 +132,7 @@ export function MapSettings(): JSX.Element {
             }}
           >
             <option key="none" value="none">
-              None
+              无
             </option>
             <option
               key="friendly"
@@ -142,7 +142,7 @@ export function MapSettings(): JSX.Element {
                 !server.ground_unit_modes?.includes(GroundUnitMode.FRIENDLY)
               }
             >
-              Friendly
+              仅蓝方
             </option>
             <option
               key="enemy"
@@ -152,7 +152,7 @@ export function MapSettings(): JSX.Element {
                 !server.ground_unit_modes?.includes(GroundUnitMode.ENEMY)
               }
             >
-              Enemy (JTAC-Mode)
+              红蓝双方
             </option>
           </select>
         </label>

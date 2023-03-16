@@ -16,7 +16,7 @@ function SettingsHome() {
         to="/"
         className="bg-red-100 border-red-300 text-red-400 border ml-2 p-1"
       >
-        Disconnect
+        断开连接
       </Link>
       <button
         onClick={() => {
@@ -27,7 +27,7 @@ function SettingsHome() {
         }}
         className="bg-red-100 border-red-300 text-red-400 border ml-2 p-1"
       >
-        Clear Local Data
+        清除本地数据
       </button>
     </div>
   );
@@ -71,7 +71,7 @@ export function Settings({ close }: { close: () => void }): JSX.Element {
       style={{ maxHeight: "80%" }}
     >
       <div className="flex flex-row items-center p-2 border-b border-gray-400">
-        <div className="text-2xl">Settings</div>
+        <div className="text-2xl">设置</div>
         <button
           className="ml-auto flex flex-row items-center"
           onClick={() => close()}

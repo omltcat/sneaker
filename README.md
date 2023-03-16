@@ -10,6 +10,16 @@ A live example of Sneaker can be viewed [here](https://hoggit.brrt.me/).
 
 ![UI preview](https://i.imgur.com/wkrZ4JU.png)
 
+## About This Fork 关于本Fork
+Changes:
+- Switched to use CN map services
+- Potential localizations   
+
+内容变更：
+- 改用国内地图服务器
+- 可能会汉化，机场名有点多救命啊需要帮忙TAT
+
+
 ## Installation
 
 1. Download the latest released version [from here](https://github.com/b1naryth1ef/sneaker/releases).

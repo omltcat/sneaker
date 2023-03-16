@@ -167,7 +167,7 @@ export default function MapGeometryInfo({ map }: { map: maptalks.Map }) {
             setSelectedGeometry(null);
           }}
         >
-          Close
+          关闭
         </button>
       </div>
       <div className="p-2 flex flex-row">

@@ -665,13 +665,27 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       fpsOnInteracting: 60,
       attribution: null,
       baseLayer: new maptalks.TileLayer("base", {
+        //opacity : 0.3,
         urlTemplate:
-          "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_nolabels/{z}/{x}/{y}.png",
+          //"https://gac-geo.googlecnapps.cn/maps/vt?lyrs=s&x={x}&y={y}&z={z}",
+          "http://gac-geo.googlecnapps.cn/maps/vt/lyrs=s&hl=zh-CN&gl=cn&x={x}&y={y}&z={z}",
         subdomains: ["a", "b", "c"],
         maxCacheSize: 2048,
         hitDetect: false,
       }),
       layers: [
+        new maptalks.TileLayer("black-mask", {
+          opacity : 0.7,
+          urlTemplate:
+            "http://gac-geo.googlecnapps.cn/maps/vt/lyrs=t&hl=zh-CN&gl=cn&x=0&y=0&z=5",
+          subdomains: ["a", "b", "c"],
+          tileSize: [4096, 4096],
+          maxCacheSize: 2048,
+          hitDetect: false,
+          forceRenderOnZooming: true,
+          forceRenderOnMoving: true,
+          forceRenderOnRotating: true,
+        }),
         new maptalks.VectorLayer("airports", [], {
           hitDetect: false,
         }),
@@ -940,9 +954,9 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
         text.setCoordinates([end[1], end[0]]).translate(scale / 9000, 0);
 
         (text.setContent as any)(
-          `${bearing.toString().padStart(3, "0")}${getCardinal(
+          `${bearing.toString().padStart(3, "0")}°${getCardinal(
             bearing
-          )} / ${Math.round(getFlyDistance(start, end))}`
+          )} / ${Math.round(getFlyDistance(start, end))}海里`
         );
 
         text.show();
@@ -965,11 +979,11 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       cursorPos,
       dcsMap
     );
-    return `${bearing.toString().padStart(3, "0")}${getCardinal(
+    return `靶眼 ${bearing.toString().padStart(3, "0")}°${getCardinal(
       bearing
     )} / ${Math.round(
       getFlyDistance(cursorPos, [bullsEntity.latitude, bullsEntity.longitude])
-    )}`;
+    )}海里`;
   }, [cursorPos, bullsEntity]);
 
   const farps = useMemo(
@@ -1094,7 +1108,7 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       ></div>
       {settingsOpen && <Settings close={() => setSettingsOpen(false)} />}
       {currentCursorBulls && (
-        <div className="absolute right-0 bottom-0 max-w-xl max-h-32 text-yellow-600 text-3xl bg-gray-400 bg-opacity-20 p-1">
+        <div className="absolute right-0 bottom-0 max-w-xl max-h-32 text-yellow-600 text-2xl bg-gray-400 bg-opacity-20 p-1">
           {currentCursorBulls}
         </div>
       )}

@@ -116,26 +116,26 @@ export function getCardinal(angle: number) {
 
   return offsetAngle >= 0 * degreePerDirection &&
     offsetAngle < 1 * degreePerDirection
-    ? "N"
+    ? "北"
     : offsetAngle >= 1 * degreePerDirection &&
       offsetAngle < 2 * degreePerDirection
-    ? "NE"
+    ? "东北"
     : offsetAngle >= 2 * degreePerDirection &&
       offsetAngle < 3 * degreePerDirection
-    ? "E"
+    ? "东"
     : offsetAngle >= 3 * degreePerDirection &&
       offsetAngle < 4 * degreePerDirection
-    ? "SE"
+    ? "东南"
     : offsetAngle >= 4 * degreePerDirection &&
       offsetAngle < 5 * degreePerDirection
-    ? "S"
+    ? "南"
     : offsetAngle >= 5 * degreePerDirection &&
       offsetAngle < 6 * degreePerDirection
-    ? "SW"
+    ? "西南"
     : offsetAngle >= 6 * degreePerDirection &&
       offsetAngle < 7 * degreePerDirection
-    ? "W"
-    : "NW";
+    ? "西"
+    : "西北";
 }
 
 export function getFlyDistance(

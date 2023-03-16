@@ -29,7 +29,7 @@ function ServerOption({ server }: { server: ServerMetadata }) {
     >
       <span className="text-3xl font-bold flex-grow">{server.name} </span>
       <span className="text-gray-600 text-sm font-light text-right">
-        ({server.players.length} online)
+        ({server.players.length} 在线)
       </span>
     </Link>
   );
@@ -58,7 +58,7 @@ function ServerConnectModal() {
       style={{ maxHeight: "50%" }}
     >
       <div className="flex flex-row items-center p-2 border-b border-gray-400">
-        <div className="text-2xl">Select Server</div>
+        <div className="text-2xl">选择服务器</div>
       </div>
       <div className="flex flex-row p-2 h-full">
         {loading && (

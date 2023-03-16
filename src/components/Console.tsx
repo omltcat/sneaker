@@ -175,7 +175,7 @@ export function Console({
               { "bg-blue-200": selectedTab === "search" }
             )}
           >
-            Search
+            搜索
           </button>
         </div>
         <div>
@@ -186,7 +186,7 @@ export function Console({
               { "bg-blue-200": selectedTab === "watch" }
             )}
           >
-            Watches
+            关注
           </button>
         </div>
         <div>
@@ -197,7 +197,7 @@ export function Console({
               { "bg-blue-200": selectedTab === "draw" }
             )}
           >
-            Draw
+            标记
           </button>
         </div>
         <div className="ml-auto flex flex-row gap-2">

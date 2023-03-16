@@ -87,7 +87,7 @@ export function EntityInfo({
             setSelectedEntityId(null);
           }}
         >
-          Close
+          关闭
         </button>
       </div>
       <div className="p-2 flex flex-row">
@@ -97,12 +97,13 @@ export function EntityInfo({
             <>
               <div>{entity.pilot}</div>
               <div>
-                Heading:{" "}
+                航向:{" "}
                 {Math.round(entity.heading).toString().padStart(3, "0")}
+                °
                 {getCardinal(entity.heading)}
               </div>
-              <div>Altitude: {Math.round(entity.altitude * 3.28084)}</div>
-              <div>GS: {Math.round(estimatedSpeed(track))}</div>
+              <div>高度: {Math.round(entity.altitude * 3.28084)}英尺</div>
+              <div>地速: {Math.round(estimatedSpeed(track))}节</div>
             </>
           )}
           <div>ID: {entity.id}</div>
@@ -124,11 +125,11 @@ export function EntityInfo({
                 );
               }}
             >
-              Snap
+              居中显示
             </button>
             <div className="flex flex-col gap-1">
               <div className="flex flex-row flex-grow">
-                <span className="text-yellow-600 pr-2 flex-grow">WR</span>
+                <span className="text-yellow-600 pr-2 flex-grow">预警距离</span>
                 <input
                   className="w-16"
                   value={trackOptions?.warningRadius || ""}
@@ -143,7 +144,7 @@ export function EntityInfo({
                 />
               </div>
               <div className="flex flex-row flex-grow">
-                <span className="text-red-600 pr-2 flex-grow">TR</span>
+                <span className="text-red-600 pr-2 flex-grow">威胁距离</span>
                 <input
                   className="w-16"
                   value={trackOptions?.threatRadius || ""}
@@ -158,7 +159,7 @@ export function EntityInfo({
                 />
               </div>
               <div className="flex flex-row flex-grow items-center">
-                <span className="text-blue-600 pr-2 flex-grow">Watch</span>
+                <span className="text-blue-600 pr-2 flex-grow">重点关注</span>
                 <input
                   type="checkbox"
                   className="form-checkbox"
