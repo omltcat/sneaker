@@ -25,7 +25,7 @@ export default function DrawConsoleTab({ map }: { map: maptalks.Map }) {
             addMarkPoint([center.y, center.x]);
           }}
         >
-          Mark
+          位置
           <BiShapeCircle className="ml-2 inline-block" />
         </button>
         <button
@@ -39,7 +39,7 @@ export default function DrawConsoleTab({ map }: { map: maptalks.Map }) {
             ]);
           }}
         >
-          Zone
+          区域
           <BiShapeSquare className="ml-2 inline-block" />
         </button>
       </div>

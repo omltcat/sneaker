@@ -35,7 +35,7 @@ function GeometryDetails({ geo, edit }: { geo: Geometry; edit: boolean }) {
   return (
     <>
       <div className="flex flex-row flex-grow w-full">
-        <span className="pr-2 flex-grow">Name</span>
+        <span className="pr-2 flex-grow">名称</span>
         {edit ? (
           <input
             className="flex-grow p-0.5 text-right"
@@ -147,7 +147,7 @@ export default function MapGeometryInfo({ map }: { map: maptalks.Map }) {
               setEditing(false);
             }}
           >
-            Done
+            完成
           </button>
         )}
         {!editing && (
@@ -157,7 +157,7 @@ export default function MapGeometryInfo({ map }: { map: maptalks.Map }) {
               setEditing(true);
             }}
           >
-            Edit
+            编辑
           </button>
         )}
         <button
@@ -179,7 +179,7 @@ export default function MapGeometryInfo({ map }: { map: maptalks.Map }) {
               deleteGeometry(selectedGeometry.id);
             }}
           >
-            Delete
+            删除
           </button>
         </div>
       </div>

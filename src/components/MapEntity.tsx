@@ -218,7 +218,7 @@ export function EntityInfo({
             return (
               <button
                 className={classNames(
-                  "p-1 border grid grid-cols-4 bg-gray-50",
+                  "p-1 border-4 grid grid-cols-4 bg-gray-50",
                   {
                     "border-red-400": alert.type === "threat",
                     "border-yellow-400": alert.type === "warning",
@@ -240,11 +240,11 @@ export function EntityInfo({
               >
                 <div>{threatEntity.name}</div>
                 <div>
-                  {bearing} {getCardinal(bearing)}
+                  {bearing}°{getCardinal(bearing)}
                 </div>
-                <div>{Math.round(distance)}NM</div>
+                <div>{Math.round(distance)}海里</div>
                 <div>
-                  {Math.floor((threatEntity.altitude * 3.28084) / 1000)}
+                  {((threatEntity.altitude * 3.28084) / 1000).toFixed(1)}k
                 </div>
               </button>
             );
