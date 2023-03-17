@@ -652,6 +652,25 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       content: renderToString(<div></div>),
     });
 
+    var polygonCN = new maptalks.Polygon(
+      [
+        [
+          [72, -90],
+          [72, 90],
+          [135, 90],
+          [135, -90],
+        ]
+      ], {
+        visible: true,
+        editable: false,
+        draggable: false,
+        symbol: {
+          "polygonFill": "rgb(0,0,0)",
+          "polygonOpacity": 1,
+        }
+      }
+    )
+
     map.current = new maptalks.Map(mapContainer.current, {
       hitDetect: false,
       panAnimation: false,
@@ -661,27 +680,23 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       doubleClickZoom: false,
       center: [dcsMap.center[1], dcsMap.center[0]],
       zoom: 8,
+      minZoom : 7,
       seamlessZoom: true,
       fpsOnInteracting: 60,
       attribution: null,
       baseLayer: new maptalks.TileLayer("base", {
         //opacity : 0.3,
+        //cssFilter: "grayscale(0.6) brightness(0.4)",
         urlTemplate:
-          //"https://gac-geo.googlecnapps.cn/maps/vt?lyrs=s&x={x}&y={y}&z={z}",
-          "http://gac-geo.googlecnapps.cn/maps/vt/lyrs=s&hl=zh-CN&gl=cn&x={x}&y={y}&z={z}",
-        subdomains: ["a", "b", "c"],
+          //"https://gac-geo.googlecnapps.cn/maps/vt/lyrs=s&hl=zh-CN&gl=cn&x={x}&y={y}&z={z}",
+          "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
+          //"https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+        subdomains: ["a", "b", "c", "d"],
         maxCacheSize: 2048,
         hitDetect: false,
       }),
       layers: [
-        new maptalks.TileLayer("black-mask", {
-          opacity : 0.7,
-          urlTemplate:
-            "http://gac-geo.googlecnapps.cn/maps/vt/lyrs=t&hl=zh-CN&gl=cn&x=0&y=0&z=5",
-          subdomains: ["a", "b", "c"],
-          tileSize: [4096, 4096],
-          maxCacheSize: 2048,
-          hitDetect: false,
+        new maptalks.VectorLayer('vectorCN', polygonCN, {
           forceRenderOnZooming: true,
           forceRenderOnMoving: true,
           forceRenderOnRotating: true,
@@ -746,6 +761,10 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
         ),
       ],
     } as any);
+
+    //var extent = map.current.getExtent();
+    var extent = new maptalks.Extent(-180, -90, 180, 90);
+    map.current.setMaxExtent(extent);
 
     map.current.addControl(entityInfoPanel.current);
 
