@@ -16,8 +16,8 @@ Changes:
 - Potential localizations   
 
 内容变更：
-- 改用国内地图服务器
-- 可能会汉化，机场名有点多救命啊需要帮忙TAT
+- 改用国内可用的地图服务器
+- 汉化中，机场名有点多救命啊需要帮忙TAT
 
 
 ## Installation
