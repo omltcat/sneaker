@@ -686,7 +686,7 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
       attribution: null,
       baseLayer: new maptalks.TileLayer("base", {
         //opacity : 0.3,
-        //cssFilter: "grayscale(0.6) brightness(0.4)",
+        //cssFilter: "grayscale(0.5) brightness(0.4)",
         urlTemplate:
           //"https://gac-geo.googlecnapps.cn/maps/vt/lyrs=s&hl=zh-CN&gl=cn&x={x}&y={y}&z={z}",
           "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
