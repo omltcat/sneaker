@@ -18,3 +18,4 @@ yarn-error.log*
 /state.json
 *.bak
 *.exe
+cmd/sneaker-server/resource.syso
