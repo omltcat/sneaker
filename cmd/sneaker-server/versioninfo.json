@@ -19,7 +19,7 @@
         "FileSubType": "00"
     },
     "StringFileInfo": {
-        "Comments": "",
+        "Comments": "zh-cn text and map by omltcat",
         "CompanyName": "b1naryth1ef",
         "FileDescription": "Web-based AEW&C interface for DCS",
         "FileVersion": "v0.0.12.0",
@@ -30,7 +30,7 @@
         "PrivateBuild": "",
         "ProductName": "Sneaker",
         "ProductVersion": "v0.0.12.0",
-        "SpecialBuild": ""
+        "SpecialBuild": "cn-1"
     },
     "VarFileInfo": {
         "Translation": {

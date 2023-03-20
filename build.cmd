@@ -2,7 +2,6 @@
 ::set GOARCH=386
 
 echo Cleaning up...
-del sneaker.exe
 del /F bin
 del cmd\sneaker-server\resource.syso
 del /F dist\*.mp3 

@@ -13,7 +13,7 @@ yarn-error.log*
 /scratch.txt
 /config.json
 /sneaker.exe
-/sneaker
+/bin
 /sneaker-server
 /state.json
 *.bak
