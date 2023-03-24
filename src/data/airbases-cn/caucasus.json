@@ -1,0 +1,695 @@
+{
+    "Gudauta": {
+      "cat": 4,
+      "callsign": "古达乌塔",
+      "id": 21,
+      "runways": [
+        {
+          "course": -2.6355042457581,
+          "Name": 15,
+          "position": {
+            "y": 21.01003074646,
+            "x": -196710.09375,
+            "z": 516451.6875
+          },
+          "length": 2389.5874023438,
+          "width": 60
+        }
+      ],
+      "point": [
+        43.124233340197,
+        40.564175768401,
+        21.01003074646
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Gudauta",
+        "displayName": "古达乌塔"
+      }
+    },
+    "Krasnodar-Center": {
+      "cat": 4,
+      "callsign": "克拉斯诺达尔-中心区",
+      "id": 13,
+      "runways": [
+        {
+          "course": -1.5174421072006,
+          "Name": 9,
+          "position": {
+            "y": 30.01003074646,
+            "x": 11685.205078125,
+            "z": 367933.5
+          },
+          "length": 2334.5407714844,
+          "width": 60
+        }
+      ],
+      "point": [
+        45.087429883845,
+        38.925202300775,
+        30.01003074646
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Krasnodar-Center",
+        "displayName": "克拉斯诺达尔-中心区"
+      }
+    },
+    "Sukhumi-Babushara": {
+      "cat": 4,
+      "callsign": "苏呼米-巴布沙拉",
+      "id": 20,
+      "runways": [
+        {
+          "course": 1.1084893941879,
+          "Name": 30,
+          "position": {
+            "y": 13.338506698608,
+            "x": -220592.328125,
+            "z": 564392
+          },
+          "length": 3419.2446289062,
+          "width": 60
+        }
+      ],
+      "point": [
+        42.852741071635,
+        41.142447588488,
+        13.338506698608
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sukhumi-Babushara",
+        "displayName": "苏呼米-巴布沙拉"
+      }
+    },
+    "Tbilisi-Lochini": {
+      "cat": 4,
+      "callsign": "第比利斯-罗奇尼",
+      "id": 29,
+      "runways": [
+        {
+          "course": -2.2334115505219,
+          "Name": 13,
+          "position": {
+            "y": 479.69479370117,
+            "x": -315671.0625,
+            "z": 896629.75
+          },
+          "length": 2344.5847167969,
+          "width": 60
+        }
+      ],
+      "point": [
+        41.674720064437,
+        44.946875226153,
+        479.69479370117
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tbilisi-Lochini",
+        "displayName": "第比利斯-罗奇尼"
+      }
+    },
+    "Beslan": {
+      "cat": 4,
+      "callsign": "别斯兰",
+      "id": 32,
+      "runways": [
+        {
+          "course": -1.6326225996017,
+          "Name": 10,
+          "position": {
+            "y": 524.00579833984,
+            "x": -148590.171875,
+            "z": 843668.625
+          },
+          "length": 2842.931640625,
+          "width": 60
+        }
+      ],
+      "point": [
+        43.208500987381,
+        44.588922553543,
+        524.00579833984
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Beslan",
+        "displayName": "别斯兰"
+      }
+    },
+    "Vaziani": {
+      "cat": 4,
+      "callsign": "瓦兹亚尼",
+      "id": 31,
+      "runways": [
+        {
+          "course": -2.364458322525,
+          "Name": 13,
+          "position": {
+            "y": 464.50045776367,
+            "x": -319064.875,
+            "z": 903148.5
+          },
+          "length": 2390.5002441406,
+          "width": 60
+        }
+      ],
+      "point": [
+        41.637735936262,
+        45.01909093846,
+        464.50045776367
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Vaziani",
+        "displayName": "瓦兹亚尼"
+      }
+    },
+    "Mozdok": {
+      "cat": 4,
+      "callsign": "莫兹多克",
+      "id": 28,
+      "runways": [
+        {
+          "course": 1.6987290382385,
+          "Name": 26,
+          "position": {
+            "y": 154.61184692383,
+            "x": -83450.421875,
+            "z": 834461.75
+          },
+          "length": 2357.453125,
+          "width": 60
+        }
+      ],
+      "point": [
+        43.791303250938,
+        44.620327262102,
+        154.61184692383
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Mozdok",
+        "displayName": "莫兹多克"
+      }
+    },
+    "Gelendzhik": {
+      "cat": 4,
+      "callsign": "格连吉克",
+      "id": 17,
+      "runways": [
+        {
+          "course": -0.69851189851761,
+          "Name": 1,
+          "position": {
+            "y": 22.009923934937,
+            "x": -50378.609375,
+            "z": 298406.15625
+          },
+          "length": 1661.8295898438,
+          "width": 60
+        }
+      ],
+      "point": [
+        44.567674586004,
+        38.004146350528,
+        22.009923934937
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Gelendzhik",
+        "displayName": "格连吉克"
+      }
+    },
+    "Senaki-Kolkhi": {
+      "cat": 4,
+      "callsign": "塞纳基-科尔奇",
+      "id": 23,
+      "runways": [
+        {
+          "course": 1.4886384010315,
+          "Name": 27,
+          "position": {
+            "y": 13.239942550659,
+            "x": -281782.46875,
+            "z": 647279.5
+          },
+          "length": 2211.6474609375,
+          "width": 60
+        }
+      ],
+      "point": [
+        42.238728081573,
+        42.061021312856,
+        13.239942550659
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Senaki-Kolkhi",
+        "displayName": "塞纳基-科尔奇"
+      }
+    },
+    "Novorossiysk": {
+      "cat": 4,
+      "callsign": "新罗西斯克",
+      "id": 14,
+      "runways": [
+        {
+          "course": 2.4084095954895,
+          "Name": 22,
+          "position": {
+            "y": 40.010040283203,
+            "x": -40917.53515625,
+            "z": 279256.0625
+          },
+          "length": 1718.8388671875,
+          "width": 60
+        }
+      ],
+      "point": [
+        44.673329604127,
+        37.78622606048,
+        40.010040283203
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Novorossiysk",
+        "displayName": "新罗西斯克"
+      }
+    },
+    "Batumi": {
+      "cat": 4,
+      "callsign": "巴统",
+      "id": 22,
+      "runways": [
+        {
+          "course": 0.95011872053146,
+          "Name": 31,
+          "position": {
+            "y": 10.044037818909,
+            "x": -355810.6875,
+            "z": 617386.1875
+          },
+          "length": 2070.4143066406,
+          "width": 60
+        }
+      ],
+      "point": [
+        41.603279859649,
+        41.60927548351,
+        10.044037818909
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Batumi",
+        "displayName": "巴统"
+      }
+    },
+    "Krymsk": {
+      "cat": 4,
+      "callsign": "克雷姆斯克",
+      "id": 15,
+      "runways": [
+        {
+          "course": -0.68974810838699,
+          "Name": 4,
+          "position": {
+            "y": 20.010303497314,
+            "x": -6576.5244140625,
+            "z": 294388.125
+          },
+          "length": 2052.3518066406,
+          "width": 60
+        }
+      ],
+      "point": [
+        44.961383022734,
+        37.985886938697,
+        20.010303497314
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Krymsk",
+        "displayName": "克雷姆斯克"
+      }
+    },
+    "Krasnodar-Pashkovsky": {
+      "cat": 4,
+      "callsign": "克拉斯诺达尔-帕什科夫斯基",
+      "id": 19,
+      "runways": [
+        {
+          "course": 2.3202996253967,
+          "Name": 23,
+          "position": {
+            "y": 34.010036468506,
+            "x": 7717.6372070312,
+            "z": 387878.8125
+          },
+          "length": 2968.3833007812,
+          "width": 60
+        }
+      ],
+      "point": [
+        45.046099641543,
+        39.203066906325,
+        34.010036468506
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Krasnodar-Pashkovsky",
+        "displayName": "克拉斯诺达尔-帕什科夫斯基"
+      }
+    },
+    "Sochi-Adler": {
+      "cat": 4,
+      "callsign": "索契-阿德勒",
+      "id": 18,
+      "runways": [
+        {
+          "course": -1.0819113254547,
+          "Name": 6,
+          "position": {
+            "y": 30.010034561157,
+            "x": -164496.46875,
+            "z": 462218.9375
+          },
+          "length": 2952.4521484375,
+          "width": 60
+        }
+      ],
+      "point": [
+        43.439378434051,
+        39.924231880466,
+        30.010034561157
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sochi-Adler",
+        "displayName": "索契-阿德勒"
+      }
+    },
+    "Kutaisi": {
+      "cat": 4,
+      "callsign": "库塔伊西",
+      "id": 25,
+      "runways": [
+        {
+          "course": 1.8500648736954,
+          "Name": 25,
+          "position": {
+            "y": 45.010047912598,
+            "x": -284887.375,
+            "z": 683858.75
+          },
+          "length": 2419.0322265625,
+          "width": 60
+        }
+      ],
+      "point": [
+        42.17915393769,
+        42.4956840774,
+        45.010047912598
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kutaisi",
+        "displayName": "库塔伊西"
+      }
+    },
+    "Nalchik": {
+      "cat": 4,
+      "callsign": "纳尔奇克",
+      "id": 27,
+      "runways": [
+        {
+          "course": -0.96863442659378,
+          "Name": 6,
+          "position": {
+            "y": 430.01040649414,
+            "x": -124932.171875,
+            "z": 760421.1875
+          },
+          "length": 2048.4140625,
+          "width": 60
+        }
+      ],
+      "point": [
+        43.51007143853,
+        43.625108736098,
+        430.01040649414
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Nalchik",
+        "displayName": "纳尔奇克"
+      }
+    },
+    "Mineralnye Vody": {
+      "cat": 4,
+      "callsign": "矿水城",
+      "id": 26,
+      "runways": [
+        {
+          "course": 1.1290608644485,
+          "Name": 30,
+          "position": {
+            "y": 320.01031494141,
+            "x": -51259.984375,
+            "z": 705734
+          },
+          "length": 3754.0329589844,
+          "width": 60
+        }
+      ],
+      "point": [
+        44.218646823807,
+        43.100679733081,
+        320.01031494141
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Mineralnye Vody",
+        "displayName": "矿水城"
+      }
+    },
+    "Kobuleti": {
+      "cat": 4,
+      "callsign": "科布列季",
+      "id": 24,
+      "runways": [
+        {
+          "course": 1.9193958044052,
+          "Name": 25,
+          "position": {
+            "y": 18.01001739502,
+            "x": -317962.3125,
+            "z": 635633
+          },
+          "length": 2257.6027832031,
+          "width": 60
+        }
+      ],
+      "point": [
+        41.932105353453,
+        41.876483823101,
+        18.01001739502
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kobuleti",
+        "displayName": "科布列季"
+      }
+    },
+    "Maykop-Khanskaya": {
+      "cat": 4,
+      "callsign": "迈科普-汉斯卡亚",
+      "id": 16,
+      "runways": [
+        {
+          "course": -0.68067389726639,
+          "Name": 4,
+          "position": {
+            "y": 180.01019287109,
+            "x": -26437.275390625,
+            "z": 458048.84375
+          },
+          "length": 3107.6345214844,
+          "width": 60
+        }
+      ],
+      "point": [
+        44.671440257355,
+        40.021427482236,
+        180.01019287109
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Maykop-Khanskaya",
+        "displayName": "迈科普-汉斯卡亚"
+      }
+    },
+    "Soganlug": {
+      "cat": 4,
+      "callsign": "索甘卢",
+      "id": 30,
+      "runways": [
+        {
+          "course": 0.83329755067825,
+          "Name": 14,
+          "position": {
+            "y": 449.41024780273,
+            "x": -317828.0625,
+            "z": 895407.1875
+          },
+          "length": 2399.349609375,
+          "width": 60
+        }
+      ],
+      "point": [
+        41.641163266787,
+        44.947183065317,
+        449.41024780273
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Soganlug",
+        "displayName": "索甘卢"
+      }
+    },
+    "Anapa-Vityazevo": {
+      "cat": 4,
+      "callsign": "阿纳帕-维迪泽瓦",
+      "id": 12,
+      "runways": [
+        {
+          "course": 2.4174582958221,
+          "Name": 22,
+          "position": {
+            "y": 43.00004196167,
+            "x": -5412.4096679688,
+            "z": 243128.8125
+          },
+          "length": 2628.5646972656,
+          "width": 60
+        }
+      ],
+      "point": [
+        45.013174733772,
+        37.359783477556,
+        43.00004196167
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Anapa-Vityazevo",
+        "displayName": "阿纳帕-维迪泽瓦"
+      }
+    }
+  }

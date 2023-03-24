@@ -1,4 +1,4 @@
-import NevadaAirBases from "../../data/airbases/nevada.json";
+import NevadaAirBases from "../../data/airbases-cn/nevada.json";
 import { convertRawAirBaseData, DCSMap } from "./DCSMap";
 
 export const Nevada: DCSMap = {

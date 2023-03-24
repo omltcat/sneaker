@@ -1,0 +1,2054 @@
+{
+    "Kuweires": {
+      "cat": 4,
+      "callsign": "库维利斯",
+      "id": 31,
+      "runways": [
+        {
+          "course": -1.7628110647202,
+          "Name": 10,
+          "position": {
+            "y": 366.00036621094,
+            "x": 125810.890625,
+            "z": 155253.8125
+          },
+          "length": 2030.8548583984,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.18937442608,
+        37.570439309206,
+        366.00036621094
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kuweires",
+        "displayName": "库维利斯"
+      }
+    },
+    "At Tanf": {
+      "cat": 4,
+      "callsign": "At Tanf",
+      "id": 63,
+      "runways": [],
+      "point": [
+        33.506450284054,
+        38.614884032103,
+        710.00073242188
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "At Tanf",
+        "displayName": "At Tanf"
+      }
+    },
+    "Marj Ruhayyil": {
+      "cat": 4,
+      "callsign": "玛吉·鲁哈伊尔",
+      "id": 23,
+      "runways": [
+        {
+          "course": -1.1251286268234,
+          "Name": 6,
+          "position": {
+            "y": 658.59417724609,
+            "x": -194233.6875,
+            "z": 46043.9765625
+          },
+          "length": 2214.5964355469,
+          "width": 45
+        },
+        {
+          "course": -1.1141402721405,
+          "Name": 24,
+          "position": {
+            "y": 658.59417724609,
+            "x": -193677.15625,
+            "z": 45844.765625
+          },
+          "length": 2214.5964355469,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.279509844412,
+        36.446981161337,
+        658.59417724609
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Marj Ruhayyil",
+        "displayName": "玛吉·鲁哈伊尔"
+      }
+    },
+    "Raj al Issa": {
+      "cat": 4,
+      "callsign": "Raj al Issa",
+      "id": 62,
+      "runways": [],
+      "point": [
+        35.021918232008,
+        35.900560445898,
+        0
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Raj al Issa",
+        "displayName": "Raj al Issa"
+      }
+    },
+    "Tal Siman": {
+      "cat": 4,
+      "callsign": "Tal Siman",
+      "id": 60,
+      "runways": [
+        {
+          "course": -1.7924402952194,
+          "Name": 10,
+          "position": {
+            "y": 299.00030517578,
+            "x": 133191.875,
+            "z": 276361.4375
+          },
+          "length": 797.47717285156,
+          "width": 45
+        }
+      ],
+      "point": [
+        36.263473166914,
+        38.924054611964,
+        299.00030517578
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tal Siman",
+        "displayName": "Tal Siman"
+      }
+    },
+    "Kiryat Shmona": {
+      "cat": 4,
+      "callsign": "谢莫纳城",
+      "id": 20,
+      "runways": [
+        {
+          "course": -0.66723424196243,
+          "Name": 3,
+          "position": {
+            "y": 93.483139038086,
+            "x": -199486.15625,
+            "z": -34500.69140625
+          },
+          "length": 993.40966796875,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.212372031645,
+        35.592419825247,
+        93.483139038086
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kiryat Shmona",
+        "displayName": "谢莫纳城"
+      }
+    },
+    "Marj as Sultan North": {
+      "cat": 4,
+      "callsign": "玛吉·苏尔坦北",
+      "id": 22,
+      "runways": [
+        {
+          "course": -1.4053814411163,
+          "Name": 8,
+          "position": {
+            "y": 611.83978271484,
+            "x": -170244.03125,
+            "z": 47506.71875
+          },
+          "length": 144.99580383301,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.500422745428,
+        36.466321617972,
+        611.83978271484
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Marj as Sultan North",
+        "displayName": "玛吉·苏尔坦北"
+      }
+    },
+    "Gazipasa": {
+      "cat": 4,
+      "callsign": "加济帕夏",
+      "id": 41,
+      "runways": [
+        {
+          "course": -1.4948734045029,
+          "Name": 8,
+          "position": {
+            "y": 11.104940414429,
+            "x": 158144.625,
+            "z": -319392.5625
+          },
+          "length": 2098.6899414062,
+          "width": 45
+        }
+      ],
+      "point": [
+        36.297823085147,
+        32.286068490305,
+        11.104940414429
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Gazipasa",
+        "displayName": "加济帕夏"
+      }
+    },
+    "Abu al-Duhur": {
+      "cat": 4,
+      "callsign": "阿布阿杜胡尔",
+      "id": 1,
+      "runways": [
+        {
+          "course": 1.5036586523056,
+          "Name": 27,
+          "position": {
+            "y": 250.00024414062,
+            "x": 76048.953125,
+            "z": 111344.921875
+          },
+          "length": 2660.8305664062,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.731462428174,
+        37.118801734534,
+        250.00024414062
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Abu al-Duhur",
+        "displayName": "阿布阿杜胡尔"
+      }
+    },
+    "Eyn Shemer": {
+      "cat": 4,
+      "callsign": "艾恩·谢默",
+      "id": 10,
+      "runways": [
+        {
+          "course": -1.7434171438217,
+          "Name": 9,
+          "position": {
+            "y": 28.576030731201,
+            "x": -283538.6875,
+            "z": -92619.703125
+          },
+          "length": 1085.7951660156,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.441791483481,
+        35.001899624572,
+        28.576030731201
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Eyn Shemer",
+        "displayName": "艾恩·谢默"
+      }
+    },
+    "Incirlik": {
+      "cat": 4,
+      "callsign": "因吉尔利克",
+      "id": 16,
+      "runways": [
+        {
+          "course": -0.95981055498123,
+          "Name": 5,
+          "position": {
+            "y": 47.783618927002,
+            "x": 221207.78125,
+            "z": -35240.34765625
+          },
+          "length": 2945.2075195312,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.994254281542,
+        35.412713065757,
+        47.783618927002
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Incirlik",
+        "displayName": "因吉尔利克"
+      }
+    },
+    "Damascus": {
+      "cat": 4,
+      "callsign": "大马士革",
+      "id": 7,
+      "runways": [
+        {
+          "course": -0.87273341417313,
+          "Name": 5,
+          "position": {
+            "y": 612.00061035156,
+            "x": -178652.3125,
+            "z": 52081.296875
+          },
+          "length": 3481.9721679688,
+          "width": 60
+        },
+        {
+          "course": -0.87258940935135,
+          "Name": 23,
+          "position": {
+            "y": 612.00061035156,
+            "x": -181976.40625,
+            "z": 51243.0078125
+          },
+          "length": 3481.9721679688,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.415340013895,
+        36.504254828586,
+        612.00061035156
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Damascus",
+        "displayName": "大马士革"
+      }
+    },
+    "H3 Southwest": {
+      "cat": 4,
+      "callsign": "H3 Southwest",
+      "id": 55,
+      "runways": [
+        {
+          "course": 1.0352146625519,
+          "Name": 30,
+          "position": {
+            "y": 814.00079345703,
+            "x": -256859.4375,
+            "z": 339219.1875
+          },
+          "length": 2231.6862792969,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.738030133825,
+        39.612247285995,
+        814.00079345703
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "H3 Southwest",
+        "displayName": "H3 Southwest"
+      }
+    },
+    "Bassel Al-Assad": {
+      "cat": 4,
+      "callsign": "巴塞勒·阿萨德",
+      "id": 21,
+      "runways": [
+        {
+          "course": -3.1162016391754,
+          "Name": 17,
+          "position": {
+            "y": 28.363424301147,
+            "x": 41994.5,
+            "z": 5841.9091796875
+          },
+          "length": 2202.4409179688,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.411589930353,
+        35.95003283514,
+        28.363424301147
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Bassel Al-Assad",
+        "displayName": "巴塞勒·阿萨德"
+      }
+    },
+    "Rosh Pina": {
+      "cat": 4,
+      "callsign": "罗什平纳",
+      "id": 34,
+      "runways": [
+        {
+          "course": 0.486507833004,
+          "Name": 33,
+          "position": {
+            "y": 263.91259765625,
+            "x": -225277.734375,
+            "z": -37687.5390625
+          },
+          "length": 826.45648193359,
+          "width": 20
+        }
+      ],
+      "point": [
+        32.97928167649,
+        35.572651208285,
+        263.91259765625
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Rosh Pina",
+        "displayName": "罗什平纳"
+      }
+    },
+    "Aleppo": {
+      "cat": 4,
+      "callsign": "阿勒颇",
+      "id": 27,
+      "runways": [
+        {
+          "course": -1.7051671743393,
+          "Name": 9,
+          "position": {
+            "y": 382.19104003906,
+            "x": 125576.859375,
+            "z": 123125.3046875
+          },
+          "length": 2539.6271972656,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.182211524331,
+        37.210383232385,
+        382.19104003906
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Aleppo",
+        "displayName": "阿勒颇"
+      }
+    },
+    "Al Qusayr": {
+      "cat": 4,
+      "callsign": "古赛尔",
+      "id": 3,
+      "runways": [
+        {
+          "course": 1.3649760484695,
+          "Name": 28,
+          "position": {
+            "y": 527.00054931641,
+            "x": -51906.96484375,
+            "z": 60013.203125
+          },
+          "length": 2616.8054199219,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.566877297302,
+        36.5854147754,
+        527.00054931641
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al Qusayr",
+        "displayName": "古赛尔"
+      }
+    },
+    "Wujah Al Hajar": {
+      "cat": 4,
+      "callsign": "乌贾哈贾尔",
+      "id": 40,
+      "runways": [
+        {
+          "course": 2.6300756931305,
+          "Name": 20,
+          "position": {
+            "y": 188.67385864258,
+            "x": -81524.375,
+            "z": -22832.533203125
+          },
+          "length": 1437.8304443359,
+          "width": 45
+        }
+      ],
+      "point": [
+        34.286960508475,
+        35.683990308563,
+        188.67385864258
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Wujah Al Hajar",
+        "displayName": "乌贾哈贾尔"
+      }
+    },
+    "Ruwayshid": {
+      "cat": 4,
+      "callsign": "Ruwayshid",
+      "id": 57,
+      "runways": [
+        {
+          "course": 1.4717937707901,
+          "Name": 27,
+          "position": {
+            "y": 908.02374267578,
+            "x": -294533.875,
+            "z": 295074.625
+          },
+          "length": 2217.2653808594,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.403696420912,
+        39.142215977076,
+        908.02374267578
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Ruwayshid",
+        "displayName": "Ruwayshid"
+      }
+    },
+    "Al-Dumayr": {
+      "cat": 4,
+      "callsign": "杜迈尔",
+      "id": 9,
+      "runways": [
+        {
+          "course": -1.1455692052841,
+          "Name": 6,
+          "position": {
+            "y": 630.00061035156,
+            "x": -158713.03125,
+            "z": 73973.3125
+          },
+          "length": 2713.4165039062,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.604657449318,
+        36.735832718421,
+        630.00061035156
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al-Dumayr",
+        "displayName": "杜迈尔"
+      }
+    },
+    "H3 Northwest": {
+      "cat": 4,
+      "callsign": "H3 Northwest",
+      "id": 54,
+      "runways": [
+        {
+          "course": 1.0184907913208,
+          "Name": 30,
+          "position": {
+            "y": 785.70843505859,
+            "x": -220000.34375,
+            "z": 338483.5625
+          },
+          "length": 2248.4291992188,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.070356444511,
+        39.60662588777,
+        785.70843505859
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "H3 Northwest",
+        "displayName": "H3 Northwest"
+      }
+    },
+    "Qabr as Sitt": {
+      "cat": 4,
+      "callsign": "西特",
+      "id": 29,
+      "runways": [
+        {
+          "course": -1.0266956090927,
+          "Name": 5,
+          "position": {
+            "y": 650.57080078125,
+            "x": -174597.765625,
+            "z": 37221.96875
+          },
+          "length": 149.05166625977,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.458606617206,
+        36.356880859456,
+        650.57080078125
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Qabr as Sitt",
+        "displayName": "西特"
+      }
+    },
+    "Jirah": {
+      "cat": 4,
+      "callsign": "吉拉",
+      "id": 17,
+      "runways": [
+        {
+          "course": 1.3831584453583,
+          "Name": 28,
+          "position": {
+            "y": 356.71685791016,
+            "x": 115359.65625,
+            "z": 187020.734375
+          },
+          "length": 2770.6811523438,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.094487121629,
+        37.951086106528,
+        356.71685791016
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Jirah",
+        "displayName": "吉拉"
+      }
+    },
+    "Hatay": {
+      "cat": 4,
+      "callsign": "哈塔伊",
+      "id": 15,
+      "runways": [
+        {
+          "course": 2.3682391643524,
+          "Name": 22,
+          "position": {
+            "y": 77.175567626953,
+            "x": 147687.484375,
+            "z": 39418.7421875
+          },
+          "length": 2759.2866210938,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.371269972814,
+        36.298090184913,
+        77.175567626953
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Hatay",
+        "displayName": "哈塔伊"
+      }
+    },
+    "Pinarbashi": {
+      "cat": 4,
+      "callsign": "皮纳尔巴希",
+      "id": 51,
+      "runways": [
+        {
+          "course": -2.9217302799225,
+          "Name": 16,
+          "position": {
+            "y": 235.00022888184,
+            "x": 38639.8828125,
+            "z": -238774.6875
+          },
+          "length": 1025.4987792969,
+          "width": 20
+        }
+      ],
+      "point": [
+        35.278334798852,
+        33.26701429987,
+        235.00022888184
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Pinarbashi",
+        "displayName": "皮纳尔巴希"
+      }
+    },
+    "Akrotiri": {
+      "cat": 4,
+      "callsign": "亚克罗提利",
+      "id": 44,
+      "runways": [
+        {
+          "course": -1.9386169910431,
+          "Name": 10,
+          "position": {
+            "y": 18.946063995361,
+            "x": -35778.62890625,
+            "z": -268906.125
+          },
+          "length": 2522.6049804688,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.594065664734,
+        32.974818319372,
+        18.946063995361
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Akrotiri",
+        "displayName": "亚克罗提利"
+      }
+    },
+    "Paphos": {
+      "cat": 4,
+      "callsign": "帕福斯",
+      "id": 46,
+      "runways": [
+        {
+          "course": -1.9891270399094,
+          "Name": 11,
+          "position": {
+            "y": 12.305082321167,
+            "x": -18696.34765625,
+            "z": -314208.375
+          },
+          "length": 2568.0747070312,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.72239325815,
+        32.471801697209,
+        12.305082321167
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Paphos",
+        "displayName": "帕福斯"
+      }
+    },
+    "Tha'lah": {
+      "cat": 4,
+      "callsign": "萨拉",
+      "id": 5,
+      "runways": [
+        {
+          "course": -1.0086405277252,
+          "Name": 5,
+          "position": {
+            "y": 725.75042724609,
+            "x": -258434.9375,
+            "z": 40368.6796875
+          },
+          "length": 2446.0573730469,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.698127092337,
+        36.402739209399,
+        725.75042724609
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tha'lah",
+        "displayName": "萨拉"
+      }
+    },
+    "Lakatamia": {
+      "cat": 4,
+      "callsign": "拉卡塔米亚",
+      "id": 48,
+      "runways": [
+        {
+          "course": -3.0474319458008,
+          "Name": 17,
+          "position": {
+            "y": 231.00024414062,
+            "x": 19561.1640625,
+            "z": -234985.75
+          },
+          "length": 374.91473388672,
+          "width": 45
+        }
+      ],
+      "point": [
+        35.106311731529,
+        33.321670653775,
+        231.00024414062
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Lakatamia",
+        "displayName": "拉卡塔米亚"
+      }
+    },
+    "Haifa": {
+      "cat": 4,
+      "callsign": "海法",
+      "id": 13,
+      "runways": [
+        {
+          "course": 0.30623117089272,
+          "Name": 34,
+          "position": {
+            "y": 6.0000066757202,
+            "x": -242620.8125,
+            "z": -87704.421875
+          },
+          "length": 991.63427734375,
+          "width": 45
+        }
+      ],
+      "point": [
+        32.80645293353,
+        35.04502076035,
+        6.0000066757202
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Haifa",
+        "displayName": "海法"
+      }
+    },
+    "Khalkhalah": {
+      "cat": 4,
+      "callsign": "哈尔卡拉",
+      "id": 18,
+      "runways": [
+        {
+          "course": -1.329590678215,
+          "Name": 7,
+          "position": {
+            "y": 712.33355712891,
+            "x": -218620.25,
+            "z": 56161.078125
+          },
+          "length": 2414.0439453125,
+          "width": 45
+        },
+        {
+          "course": -2.6401927471161,
+          "Name": 25,
+          "position": {
+            "y": 712.33355712891,
+            "x": -217201.96875,
+            "z": 53275.34375
+          },
+          "length": 2414.0439453125,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.06361028266,
+        36.559784748722,
+        712.33355712891
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Khalkhalah",
+        "displayName": "哈尔卡拉"
+      }
+    },
+    "Megiddo": {
+      "cat": 4,
+      "callsign": "米吉多",
+      "id": 24,
+      "runways": [
+        {
+          "course": -1.6303981542587,
+          "Name": 9,
+          "position": {
+            "y": 55.000053405762,
+            "x": -266965,
+            "z": -71068.828125
+          },
+          "length": 1858.7458496094,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.597578671655,
+        35.220203497046,
+        55.000053405762
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Megiddo",
+        "displayName": "米吉多"
+      }
+    },
+    "Larnaca": {
+      "cat": 4,
+      "callsign": "拉纳卡",
+      "id": 47,
+      "runways": [
+        {
+          "course": -0.84113675355911,
+          "Name": 4,
+          "position": {
+            "y": 5.0000047683716,
+            "x": -7674.7373046875,
+            "z": -208843.625
+          },
+          "length": 2441.2175292969,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.865619667975,
+        33.613584325006,
+        5.0000047683716
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Larnaca",
+        "displayName": "拉纳卡"
+      }
+    },
+    "Rayak": {
+      "cat": 4,
+      "callsign": "里亚格",
+      "id": 32,
+      "runways": [
+        {
+          "course": -0.81871491670609,
+          "Name": 4,
+          "position": {
+            "y": 894.38146972656,
+            "x": -130132.4921875,
+            "z": 4053.3364257812
+          },
+          "length": 2651.7202148438,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.84290182523,
+        35.976931824797,
+        894.38146972656
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Rayak",
+        "displayName": "里亚格"
+      }
+    },
+    "Kingsfield": {
+      "cat": 4,
+      "callsign": "金菲尔德",
+      "id": 45,
+      "runways": [
+        {
+          "course": 2.0272419452667,
+          "Name": 24,
+          "position": {
+            "y": 84.00008392334,
+            "x": 7596.76171875,
+            "z": -199426.5
+          },
+          "length": 935.50708007812,
+          "width": 20
+        }
+      ],
+      "point": [
+        35.016621196807,
+        33.721655835024,
+        84.00008392334
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kingsfield",
+        "displayName": "金菲尔德"
+      }
+    },
+    "Mezzeh": {
+      "cat": 4,
+      "callsign": "梅泽赫",
+      "id": 25,
+      "runways": [
+        {
+          "course": 2.066207408905,
+          "Name": 24,
+          "position": {
+            "y": 718.09167480469,
+            "x": -172160.453125,
+            "z": 24865.68359375
+          },
+          "length": 2292.8518066406,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.482713511778,
+        36.235064059083,
+        718.09167480469
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Mezzeh",
+        "displayName": "梅泽赫"
+      }
+    },
+    "Gecitkale": {
+      "cat": 4,
+      "callsign": "格西特卡勒",
+      "id": 50,
+      "runways": [
+        {
+          "course": -1.6351808309555,
+          "Name": 9,
+          "position": {
+            "y": 45.000045776367,
+            "x": 32144.73046875,
+            "z": -197767.515625
+          },
+          "length": 2485.9633789062,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.236403909864,
+        33.707277702803,
+        45.000045776367
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Gecitkale",
+        "displayName": "格西特卡勒"
+      }
+    },
+    "Nicosia": {
+      "cat": 4,
+      "callsign": "尼科西亚",
+      "id": 43,
+      "runways": [],
+      "point": [
+        35.150919822632,
+        33.275002451661,
+        210.00021362305
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Nicosia",
+        "displayName": "尼科西亚"
+      }
+    },
+    "Naqoura": {
+      "cat": 4,
+      "callsign": "纳科拉",
+      "id": 52,
+      "runways": [],
+      "point": [
+        33.10790532693,
+        35.127285739707,
+        115.27894592285
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Naqoura",
+        "displayName": "纳科拉"
+      }
+    },
+    "Gaziantep": {
+      "cat": 4,
+      "callsign": "加济安泰普",
+      "id": 11,
+      "runways": [
+        {
+          "course": -1.8499087095261,
+          "Name": 10,
+          "position": {
+            "y": 697.21142578125,
+            "x": 210314.796875,
+            "z": 147379.28125
+          },
+          "length": 2704.0646972656,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.951397233614,
+        37.464512889798,
+        697.21142578125
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Gaziantep",
+        "displayName": "加济安泰普"
+      }
+    },
+    "Kharab Ishk": {
+      "cat": 4,
+      "callsign": "Kharab Ishk",
+      "id": 59,
+      "runways": [],
+      "point": [
+        36.546920540733,
+        38.587524391694,
+        431.39971923828
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kharab Ishk",
+        "displayName": "Kharab Ishk"
+      }
+    },
+    "Sayqal": {
+      "cat": 4,
+      "callsign": "塞卡尔",
+      "id": 35,
+      "runways": [
+        {
+          "course": -1.5826123952866,
+          "Name": 8,
+          "position": {
+            "y": 693.00067138672,
+            "x": -151781.375,
+            "z": 117529.734375
+          },
+          "length": 2418.6062011719,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.680052164369,
+        37.204068911005,
+        693.00067138672
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sayqal",
+        "displayName": "塞卡尔"
+      }
+    },
+    "Tiyas": {
+      "cat": 4,
+      "callsign": "提亚斯",
+      "id": 39,
+      "runways": [
+        {
+          "course": 1.5706493854523,
+          "Name": 27,
+          "position": {
+            "y": 548.00054931641,
+            "x": -58907.53125,
+            "z": 157071.484375
+          },
+          "length": 2871.28125,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.522531432479,
+        37.645765105063,
+        548.00054931641
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tiyas",
+        "displayName": "提亚斯"
+      }
+    },
+    "Shayrat": {
+      "cat": 4,
+      "callsign": "沙伊拉特",
+      "id": 36,
+      "runways": [
+        {
+          "course": -1.9557993412018,
+          "Name": 11,
+          "position": {
+            "y": 803.97332763672,
+            "x": -61368.20703125,
+            "z": 90675.140625
+          },
+          "length": 2607.0715332031,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.494640308217,
+        36.894468654443,
+        803.97332763672
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Shayrat",
+        "displayName": "沙伊拉特"
+      }
+    },
+    "Taftanaz": {
+      "cat": 4,
+      "callsign": "塔夫塔纳兹",
+      "id": 38,
+      "runways": [
+        {
+          "course": 1.3816497325897,
+          "Name": 28,
+          "position": {
+            "y": 311.00030517578,
+            "x": 103485.984375,
+            "z": 82766.671875
+          },
+          "length": 824.50183105469,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.973223381816,
+        36.785894108748,
+        311.00030517578
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Taftanaz",
+        "displayName": "塔夫塔纳兹"
+      }
+    },
+    "H4": {
+      "cat": 4,
+      "callsign": "H4",
+      "id": 12,
+      "runways": [
+        {
+          "course": 1.341868519783,
+          "Name": 28,
+          "position": {
+            "y": 688.00067138672,
+            "x": -279366.75,
+            "z": 207219.265625
+          },
+          "length": 2188.2790527344,
+          "width": 20
+        }
+      ],
+      "point": [
+        32.536851104207,
+        38.206376228872,
+        688.00067138672
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "H4",
+        "displayName": "H4"
+      }
+    },
+    "King Hussein Air College": {
+      "cat": 4,
+      "callsign": "侯赛因国王航空学院",
+      "id": 19,
+      "runways": [
+        {
+          "course": 0.8370109796524,
+          "Name": 31,
+          "position": {
+            "y": 672.00067138672,
+            "x": -296592.40625,
+            "z": 24944.35546875
+          },
+          "length": 2619.8859863281,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.348793954817,
+        36.270213489366,
+        672.00067138672
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "King Hussein Air College",
+        "displayName": "侯赛因国王航空学院"
+      }
+    },
+    "Rene Mouawad": {
+      "cat": 4,
+      "callsign": "雷内·穆瓦瓦德",
+      "id": 33,
+      "runways": [
+        {
+          "course": -1.108769774437,
+          "Name": 6,
+          "position": {
+            "y": 4.410843372345,
+            "x": -48306.0078125,
+            "z": 8690.693359375
+          },
+          "length": 2625.6965332031,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.583953310218,
+        35.9986872567,
+        4.410843372345
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Rene Mouawad",
+        "displayName": "雷内·穆瓦瓦德"
+      }
+    },
+    "Deir ez-Zor": {
+      "cat": 4,
+      "callsign": "Deir ez-Zor",
+      "id": 42,
+      "runways": [
+        {
+          "course": 1.2369955778122,
+          "Name": 28,
+          "position": {
+            "y": 204.59194946289,
+            "x": 25465.16796875,
+            "z": 389747.03125
+          },
+          "length": 2846.3859863281,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.280828897833,
+        40.190671143219,
+        204.59194946289
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Deir ez-Zor",
+        "displayName": "Deir ez-Zor"
+      }
+    },
+    "Ramat David": {
+      "cat": 4,
+      "callsign": "拉玛特·戴维",
+      "id": 30,
+      "runways": [
+        {
+          "course": -1.5473164319992,
+          "Name": 9,
+          "position": {
+            "y": 32.239345550537,
+            "x": -259102.125,
+            "z": -75789.40625
+          },
+          "length": 2145.037109375,
+          "width": 60
+        },
+        {
+          "course": -2.5579409599304,
+          "Name": 27,
+          "position": {
+            "y": 32.239345550537,
+            "x": -259123.96875,
+            "z": -75104.5234375
+          },
+          "length": 2145.037109375,
+          "width": 60
+        },
+        {
+          "course": -1.9250437021255,
+          "Name": 15,
+          "position": {
+            "y": 32.239345550537,
+            "x": -259878.8125,
+            "z": -76010.4375
+          },
+          "length": 2040.9826660156,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.666055265719,
+        35.165455922777,
+        32.239345550537
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Ramat David",
+        "displayName": "拉玛特·戴维"
+      }
+    },
+    "H3": {
+      "cat": 4,
+      "callsign": "H3",
+      "id": 53,
+      "runways": [
+        {
+          "course": -1.9476326704025,
+          "Name": 11,
+          "position": {
+            "y": 774.86505126953,
+            "x": -235405.65625,
+            "z": 352522.65625
+          },
+          "length": 2692.0146484375,
+          "width": 60
+        },
+        {
+          "course": -1.1260669231415,
+          "Name": 29,
+          "position": {
+            "y": 774.86505126953,
+            "x": -236904.875,
+            "z": 352721.4375
+          },
+          "length": 2692.0146484375,
+          "width": 60
+        }
+      ],
+      "point": [
+        32.940993052246,
+        39.732582868536,
+        774.86505126953
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "H3",
+        "displayName": "H3"
+      }
+    },
+    "Minakh": {
+      "cat": 4,
+      "callsign": "米纳赫",
+      "id": 26,
+      "runways": [
+        {
+          "course": -1.7755016088486,
+          "Name": 10,
+          "position": {
+            "y": 492.00051879883,
+            "x": 163697.53125,
+            "z": 107430.609375
+          },
+          "length": 1416.9278564453,
+          "width": 60
+        },
+        {
+          "course": -0.73824679851532,
+          "Name": 28,
+          "position": {
+            "y": 492.00051879883,
+            "x": 163876.6875,
+            "z": 107092.0546875
+          },
+          "length": 1416.9278564453,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.522812218953,
+        37.033622455645,
+        492.00051879883
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Minakh",
+        "displayName": "米纳赫"
+      }
+    },
+    "Adana Sakirpasa": {
+      "cat": 4,
+      "callsign": "阿达娜·萨基尔帕萨",
+      "id": 2,
+      "runways": [
+        {
+          "course": 2.1676783561707,
+          "Name": 23,
+          "position": {
+            "y": 17.000017166138,
+            "x": 219468.65625,
+            "z": -48332.734375
+          },
+          "length": 2473.6845703125,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.988281127829,
+        35.291372307265,
+        17.000017166138
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Adana Sakirpasa",
+        "displayName": "阿达娜·萨基尔帕萨"
+      }
+    },
+    "Palmyra": {
+      "cat": 4,
+      "callsign": "巴尔米拉",
+      "id": 28,
+      "runways": [
+        {
+          "course": 1.6658571958542,
+          "Name": 26,
+          "position": {
+            "y": 386.22402954102,
+            "x": -55704.0234375,
+            "z": 220114.75
+          },
+          "length": 2653.1723632812,
+          "width": 60
+        }
+      ],
+      "point": [
+        34.558235536659,
+        38.331123062337,
+        386.22402954102
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Palmyra",
+        "displayName": "巴尔米拉"
+      }
+    },
+    "Hama": {
+      "cat": 4,
+      "callsign": "哈马",
+      "id": 14,
+      "runways": [
+        {
+          "course": 1.3938522338867,
+          "Name": 27,
+          "position": {
+            "y": 300.00030517578,
+            "x": 8662.59375,
+            "z": 74333.1875
+          },
+          "length": 2425.48046875,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.116099484431,
+        36.72547347191,
+        300.00030517578
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Hama",
+        "displayName": "哈马"
+      }
+    },
+    "Ercan": {
+      "cat": 4,
+      "callsign": "埃阿坎",
+      "id": 49,
+      "runways": [
+        {
+          "course": -2.0072014331818,
+          "Name": 11,
+          "position": {
+            "y": 95.000091552734,
+            "x": 24250.328125,
+            "z": -218240.28125
+          },
+          "length": 2304.138671875,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.159249791336,
+        33.49011058133,
+        95.000091552734
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Ercan",
+        "displayName": "埃阿坎"
+      }
+    },
+    "Marj as Sultan South": {
+      "cat": 4,
+      "callsign": "玛吉·苏尔坦南",
+      "id": 8,
+      "runways": [
+        {
+          "course": -1.5726798772812,
+          "Name": 9,
+          "position": {
+            "y": 611.96624755859,
+            "x": -171711.34375,
+            "z": 48243.7421875
+          },
+          "length": 74.652481079102,
+          "width": 45
+        }
+      ],
+      "point": [
+        33.487483451402,
+        36.475050826595,
+        611.96624755859
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Marj as Sultan South",
+        "displayName": "玛吉·苏尔坦南"
+      }
+    },
+    "Tabqa": {
+      "cat": 4,
+      "callsign": "塔布卡",
+      "id": 37,
+      "runways": [
+        {
+          "course": -1.6254252195358,
+          "Name": 9,
+          "position": {
+            "y": 335.00033569336,
+            "x": 76964.6875,
+            "z": 243605.21875
+          },
+          "length": 2754.3120117188,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.755613770805,
+        38.551250775516,
+        335.00033569336
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tabqa",
+        "displayName": "塔布卡"
+      }
+    },
+    "Beirut-Rafic Hariri": {
+      "cat": 4,
+      "callsign": "贝鲁特-拉菲克·哈里里",
+      "id": 6,
+      "runways": [
+        {
+          "course": -3.1218299865723,
+          "Name": 17,
+          "position": {
+            "y": 12.000012397766,
+            "x": -131310.8125,
+            "z": -42286.49609375
+          },
+          "length": 2041.9613037109,
+          "width": 60
+        },
+        {
+          "course": -0.60757333040237,
+          "Name": 35,
+          "position": {
+            "y": 12.000012397766,
+            "x": -132719.96875,
+            "z": -41779.26953125
+          },
+          "length": 2041.9613037109,
+          "width": 60
+        },
+        {
+          "course": -2.9476790428162,
+          "Name": 3,
+          "position": {
+            "y": 12.000012397766,
+            "x": -131531.78125,
+            "z": -42725.0703125
+          },
+          "length": 2876.3203125,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.836465479357,
+        35.487416760577,
+        12.000012397766
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Beirut-Rafic Hariri",
+        "displayName": "贝鲁特-拉菲克·哈里里"
+      }
+    },
+    "An Nasiriyah": {
+      "cat": 4,
+      "callsign": "纳西里耶",
+      "id": 4,
+      "runways": [
+        {
+          "course": 2.3617589473724,
+          "Name": 22,
+          "position": {
+            "y": 837.16253662109,
+            "x": -124683.734375,
+            "z": 85510.8203125
+          },
+          "length": 2490.8952636719,
+          "width": 60
+        }
+      ],
+      "point": [
+        33.92656597361,
+        36.875344527767,
+        837.16253662109
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "An Nasiriyah",
+        "displayName": "纳西里耶"
+      }
+    },
+    "Sanliurfa": {
+      "cat": 4,
+      "callsign": "Sanliurfa",
+      "id": 58,
+      "runways": [
+        {
+          "course": 2.4065136909485,
+          "Name": 22,
+          "position": {
+            "y": 823.94732666016,
+            "x": 264719.125,
+            "z": 273812.4375
+          },
+          "length": 3755.3359375,
+          "width": 60
+        }
+      ],
+      "point": [
+        37.460456062347,
+        38.912852189935,
+        823.94732666016
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sanliurfa",
+        "displayName": "Sanliurfa"
+      }
+    }
+  }

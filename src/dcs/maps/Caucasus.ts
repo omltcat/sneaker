@@ -1,4 +1,4 @@
-import CaucasusAirBases from "../../data/airbases/caucasus.json";
+import CaucasusAirBases from "../../data/airbases-cn/caucasus.json";
 import { convertRawAirBaseData, DCSMap } from "./DCSMap";
 
 export const Caucasus: DCSMap = {

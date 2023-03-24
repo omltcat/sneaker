@@ -840,7 +840,7 @@ export function Map({ dcsMap }: { dcsMap: DCSMap }) {
             textFaceName: FONT_FAMILY,
             textFill: "white",
             textOpacity: 0.5,
-            textSize: 10,
+            textSize: 11,
           },
         }
       );

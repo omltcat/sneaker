@@ -1,4 +1,4 @@
-import PersianGulfAirBases from "../../data/airbases/persiangulf.json";
+import PersianGulfAirBases from "../../data/airbases-cn/persiangulf.json";
 import { convertRawAirBaseData, DCSMap } from "./DCSMap";
 
 export const PersianGulf: DCSMap = {

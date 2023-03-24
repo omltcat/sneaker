@@ -1,0 +1,276 @@
+{
+  "North West Field": {
+    "cat": 4,
+    "callsign": "西北场",
+    "id": 8,
+    "runways": [],
+    "point": [
+      13.629365787313,
+      144.86661164669,
+      159.00015258789
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "North West Field",
+      "displayName": "西北场"
+    }
+  },
+  "Pagan Airstrip": {
+    "cat": 4,
+    "callsign": "帕甘临时机场",
+    "id": 7,
+    "runways": [
+      {
+        "course": -1.9427622556686,
+        "Name": 11,
+        "position": {
+          "y": 15.308205604553,
+          "x": 512410.25,
+          "z": 107564.609375
+        },
+        "length": 495.34295654297,
+        "width": 50
+      }
+    ],
+    "point": [
+      18.12420628516,
+      145.76106359949,
+      15.308205604553
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Pagan Airstrip",
+      "displayName": "帕甘临时机场"
+    }
+  },
+  "Rota Intl": {
+    "cat": 4,
+    "callsign": "罗塔国际机场",
+    "id": 1,
+    "runways": [
+      {
+        "course": -1.6094254255295,
+        "Name": 9,
+        "position": {
+          "y": 173.38017272949,
+          "x": 75884.859375,
+          "z": 48589.875
+        },
+        "length": 1861.0954589844,
+        "width": 60
+      }
+    ],
+    "point": [
+      14.174905098823,
+      145.23248560973,
+      173.38017272949
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Rota Intl",
+      "displayName": "罗塔国际机场"
+    }
+  },
+  "Andersen AFB": {
+    "cat": 4,
+    "callsign": "安德森空军基地",
+    "id": 6,
+    "runways": [
+      {
+        "course": -1.1583703756332,
+        "Name": 6,
+        "position": {
+          "y": 166.12214660645,
+          "x": 10574.990234375,
+          "z": 14548.833984375
+        },
+        "length": 3197.4418945312,
+        "width": 60
+      },
+      {
+        "course": -1.1584078073502,
+        "Name": 24,
+        "position": {
+          "y": 166.12214660645,
+          "x": 11089.849609375,
+          "z": 14365.798828125
+        },
+        "length": 3197.4418945312,
+        "width": 60
+      }
+    ],
+    "point": [
+      13.57604707035,
+      144.91745889539,
+      166.12214660645
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Andersen AFB",
+      "displayName": "安德森空军基地"
+    }
+  },
+  "Antonio B. Won Pat Intl": {
+    "cat": 4,
+    "callsign": "安东尼奥·汪帕特国际机场",
+    "id": 4,
+    "runways": [
+      {
+        "course": -1.14269053936,
+        "Name": 6,
+        "position": {
+          "y": 77.79207611084,
+          "x": -23.656127929688,
+          "z": -77.940307617188
+        },
+        "length": 2852.7629394531,
+        "width": 60
+      },
+      {
+        "course": -1.1422345638275,
+        "Name": 24,
+        "position": {
+          "y": 77.79207611084,
+          "x": -294.1178894043,
+          "z": -154.8974609375
+        },
+        "length": 2852.7629394531,
+        "width": 60
+      }
+    ],
+    "point": [
+      13.479569370694,
+      144.78477470703,
+      77.79207611084
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Antonio B. Won Pat Intl",
+      "displayName": "安东尼奥·汪帕特国际机场"
+    }
+  },
+  "Saipan Intl": {
+    "cat": 4,
+    "callsign": "塞班国际机场",
+    "id": 2,
+    "runways": [
+      {
+        "course": -1.1885718107224,
+        "Name": 7,
+        "position": {
+          "y": 65.000068664551,
+          "x": 180035.4375,
+          "z": 101855.9609375
+        },
+        "length": 2374.4230957031,
+        "width": 60
+      }
+    ],
+    "point": [
+      15.115121634075,
+      145.71879827825,
+      65.000068664551
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Saipan Intl",
+      "displayName": "塞班国际机场"
+    }
+  },
+  "Tinian Intl": {
+    "cat": 4,
+    "callsign": "提尼安国际机场",
+    "id": 3,
+    "runways": [
+      {
+        "course": -1.3863915205002,
+        "Name": 8,
+        "position": {
+          "y": 73.154266357422,
+          "x": 166859.859375,
+          "z": 89956.625
+        },
+        "length": 2370.6965332031,
+        "width": 60
+      }
+    ],
+    "point": [
+      14.997429376954,
+      145.60830605924,
+      73.154266357422
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Tinian Intl",
+      "displayName": "提尼安国际机场"
+    }
+  },
+  "Olf Orote": {
+    "cat": 4,
+    "callsign": "奥尔夫奥罗特",
+    "id": 5,
+    "runways": [
+      {
+        "course": 1.9677163362503,
+        "Name": 25,
+        "position": {
+          "y": 28.506044387817,
+          "x": -5023.3046875,
+          "z": -16869.435546875
+        },
+        "length": 1052.1625976562,
+        "width": 45
+      }
+    ],
+    "point": [
+      13.4398309259,
+      144.64680955858,
+      28.506044387817
+    ],
+    "desc": {
+      "life": 3600,
+      "attributes": {
+        "Airfields": true
+      },
+      "_origin": "",
+      "category": 0,
+      "typeName": "Olf Orote",
+      "displayName": "奥尔夫奥罗特"
+    }
+  }
+}

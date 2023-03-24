@@ -1,4 +1,4 @@
-import SyriaAirBases from "../../data/airbases/syria.json";
+import SyriaAirBases from "../../data/airbases-cn/syria.json";
 import { convertRawAirBaseData, DCSMap } from "./DCSMap";
 
 export const Syria: DCSMap = {

@@ -1,0 +1,662 @@
+{
+    "Jean": {
+      "cat": 4,
+      "callsign": "吉恩",
+      "id": 9,
+      "runways": [
+        {
+          "course": 2.6065623760223,
+          "Name": 20,
+          "position": {
+            "y": 860.87591552734,
+            "x": -450392.875,
+            "z": -43000.4609375
+          },
+          "length": 1235.3557128906,
+          "width": 20
+        },
+        {
+          "course": 2.6064193248749,
+          "Name": 2,
+          "position": {
+            "y": 860.87591552734,
+            "x": -450523.59375,
+            "z": -42971.171875
+          },
+          "length": 1235.3557128906,
+          "width": 20
+        }
+      ],
+      "point": [
+        35.773785550964,
+        -115.32570272555,
+        860.87591552734
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Jean",
+        "displayName": "吉恩"
+      }
+    },
+    "McCarran International": {
+      "cat": 4,
+      "callsign": "麦卡伦国际机场",
+      "id": 3,
+      "runways": [
+        {
+          "course": -1.5510839223862,
+          "Name": 7,
+          "position": {
+            "y": 661.37609863281,
+            "x": -416011.375,
+            "z": -26929.3359375
+          },
+          "length": 3163.0314941406,
+          "width": 60
+        },
+        {
+          "course": -1.5512491464615,
+          "Name": 25,
+          "position": {
+            "y": 661.37609863281,
+            "x": -416316.0625,
+            "z": -26833.4921875
+          },
+          "length": 3163.0314941406,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.076670073498,
+        -115.16219006293,
+        661.37609863281
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "McCarran International",
+        "displayName": "麦卡伦国际机场"
+      }
+    },
+    "Laughlin": {
+      "cat": 4,
+      "callsign": "拉夫林",
+      "id": 10,
+      "runways": [
+        {
+          "course": -3.0549499988556,
+          "Name": 16,
+          "position": {
+            "y": 200.00019836426,
+            "x": -516946.4375,
+            "z": 28306.30859375
+          },
+          "length": 2176.0114746094,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.165905267476,
+        -114.55986431857,
+        200.00019836426
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Laughlin",
+        "displayName": "拉夫林"
+      }
+    },
+    "Lincoln County": {
+      "cat": 4,
+      "callsign": "林肯县",
+      "id": 11,
+      "runways": [
+        {
+          "course": 3.1253848075867,
+          "Name": 17,
+          "position": {
+            "y": 1467.6899414062,
+            "x": -224670.34375,
+            "z": 33199.9375
+          },
+          "length": 1343.6921386719,
+          "width": 20
+        }
+      ],
+      "point": [
+        37.793389585399,
+        -114.41923699635,
+        1467.6899414062
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Lincoln County",
+        "displayName": "林肯县"
+      }
+    },
+    "Pahute Mesa": {
+      "cat": 4,
+      "callsign": "帕胡德梅萨",
+      "id": 16,
+      "runways": [
+        {
+          "course": -0.23457318544388,
+          "Name": 36,
+          "position": {
+            "y": 1541.3635253906,
+            "x": -303620,
+            "z": -132937.9375
+          },
+          "length": 1652.0565185547,
+          "width": 60
+        }
+      ],
+      "point": [
+        37.094831346541,
+        -116.31539962949,
+        1541.3635253906
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Pahute Mesa",
+        "displayName": "帕胡德梅萨"
+      }
+    },
+    "Boulder City": {
+      "cat": 4,
+      "callsign": "博尔德市",
+      "id": 6,
+      "runways": [
+        {
+          "course": 0.27873066067696,
+          "Name": 33,
+          "position": {
+            "y": 646.66363525391,
+            "x": -429660.09375,
+            "z": -1148.7244873047
+          },
+          "length": 1128.5063476562,
+          "width": 20
+        },
+        {
+          "course": 1.4227820634842,
+          "Name": 15,
+          "position": {
+            "y": 646.66363525391,
+            "x": -429914.8125,
+            "z": -1078.7415771484
+          },
+          "length": 1128.5063476562,
+          "width": 20
+        }
+      ],
+      "point": [
+        35.943681644578,
+        -114.86055178579,
+        646.66363525391
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Boulder City",
+        "displayName": "博尔德市"
+      }
+    },
+    "Echo Bay": {
+      "cat": 4,
+      "callsign": "回音湾",
+      "id": 7,
+      "runways": [
+        {
+          "course": -1.3506362438202,
+          "Name": 6,
+          "position": {
+            "y": 472.03369140625,
+            "x": -388592.34375,
+            "z": 33697.3125
+          },
+          "length": 984.02569580078,
+          "width": 20
+        }
+      ],
+      "point": [
+        36.310471394437,
+        -114.46933764146,
+        472.03369140625
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Echo Bay",
+        "displayName": "回音湾"
+      }
+    },
+    "Mesquite": {
+      "cat": 4,
+      "callsign": "梅斯基特",
+      "id": 13,
+      "runways": [
+        {
+          "course": -0.48182135820389,
+          "Name": 1,
+          "position": {
+            "y": 566.48736572266,
+            "x": -329622.09375,
+            "z": 68561.1484375
+          },
+          "length": 1504.9615478516,
+          "width": 20
+        }
+      ],
+      "point": [
+        36.827345248734,
+        -114.06033514493,
+        566.48736572266
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Mesquite",
+        "displayName": "梅斯基特"
+      }
+    },
+    "Groom Lake": {
+      "cat": 4,
+      "callsign": "马夫湖",
+      "id": 2,
+      "runways": [
+        {
+          "course": 0.41125798225403,
+          "Name": 32,
+          "position": {
+            "y": 1369.8676757812,
+            "x": -288604.6875,
+            "z": -86870.4453125
+          },
+          "length": 3355.2507324219,
+          "width": 60
+        }
+      ],
+      "point": [
+        37.21913894289,
+        -115.78531067518,
+        1369.8676757812
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Groom Lake",
+        "displayName": "马夫湖"
+      }
+    },
+    "Nellis": {
+      "cat": 4,
+      "callsign": "内利斯",
+      "id": 4,
+      "runways": [
+        {
+          "course": -0.70031100511551,
+          "Name": 3,
+          "position": {
+            "y": 561.30914306641,
+            "x": -398195.375,
+            "z": -17233.236328125
+          },
+          "length": 2876.6762695312,
+          "width": 60
+        },
+        {
+          "course": -0.70050585269928,
+          "Name": 21,
+          "position": {
+            "y": 561.30914306641,
+            "x": -398000.375,
+            "z": -17467.23828125
+          },
+          "length": 2876.6762695312,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.225662018016,
+        -115.04380774353,
+        561.30914306641
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Nellis",
+        "displayName": "内利斯"
+      }
+    },
+    "Tonopah": {
+      "cat": 4,
+      "callsign": "托诺帕",
+      "id": 17,
+      "runways": [
+        {
+          "course": 0.95942312479019,
+          "Name": 29,
+          "position": {
+            "y": 1644.1396484375,
+            "x": -197282.90625,
+            "z": -201302.875
+          },
+          "length": 1619.8765869141,
+          "width": 20
+        },
+        {
+          "course": 0.26130217313766,
+          "Name": 11,
+          "position": {
+            "y": 1644.1396484375,
+            "x": -197779.3125,
+            "z": -201854.859375
+          },
+          "length": 1619.8765869141,
+          "width": 20
+        }
+      ],
+      "point": [
+        38.058024445654,
+        -117.07591711356,
+        1644.1396484375
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tonopah",
+        "displayName": "托诺帕"
+      }
+    },
+    "Tonopah Test Range": {
+      "cat": 4,
+      "callsign": "托诺帕试验和训练靶场",
+      "id": 18,
+      "runways": [
+        {
+          "course": 0.40033161640167,
+          "Name": 32,
+          "position": {
+            "y": 1686.8143310547,
+            "x": -226505.28125,
+            "z": -174698.484375
+          },
+          "length": 3545.7802734375,
+          "width": 60
+        }
+      ],
+      "point": [
+        37.78403952166,
+        -116.77330290767,
+        1686.8143310547
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tonopah Test Range",
+        "displayName": "托诺帕试验和训练靶场"
+      }
+    },
+    "Henderson Executive": {
+      "cat": 4,
+      "callsign": "亨德森行政机场",
+      "id": 8,
+      "runways": [
+        {
+          "course": 0.0084149222820997,
+          "Name": 35,
+          "position": {
+            "y": 759.43688964844,
+            "x": -427352.71875,
+            "z": -25668.716796875
+          },
+          "length": 1448.8039550781,
+          "width": 60
+        },
+        {
+          "course": 0.0087440079078078,
+          "Name": 17,
+          "position": {
+            "y": 759.43688964844,
+            "x": -427605.40625,
+            "z": -25878.82421875
+          },
+          "length": 1448.8039550781,
+          "width": 60
+        }
+      ],
+      "point": [
+        35.96746878808,
+        -115.13347108341,
+        759.43688964844
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Henderson Executive",
+        "displayName": "亨德森行政机场"
+      }
+    },
+    "Creech": {
+      "cat": 4,
+      "callsign": "克里奇空军基地",
+      "id": 1,
+      "runways": [
+        {
+          "course": -1.597741484642,
+          "Name": 8,
+          "position": {
+            "y": 952.94458007812,
+            "x": -360507.1875,
+            "z": -75590.0703125
+          },
+          "length": 1859.3155517578,
+          "width": 60
+        },
+        {
+          "course": -2.5331676006317,
+          "Name": 26,
+          "position": {
+            "y": 952.94458007812,
+            "x": -359739.875,
+            "z": -75289.5078125
+          },
+          "length": 1859.3155517578,
+          "width": 60
+        }
+      ],
+      "point": [
+        36.584429875554,
+        -115.68681060569,
+        952.94458007812
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Creech",
+        "displayName": "克里奇空军基地"
+      }
+    },
+    "Beatty": {
+      "cat": 4,
+      "callsign": "贝蒂",
+      "id": 5,
+      "runways": [
+        {
+          "course": -3.1391150951385,
+          "Name": 16,
+          "position": {
+            "y": 967.13366699219,
+            "x": -330553.625,
+            "z": -174958.53125
+          },
+          "length": 1639.951171875,
+          "width": 20
+        }
+      ],
+      "point": [
+        36.868394298081,
+        -116.78608313042,
+        967.13366699219
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Beatty",
+        "displayName": "贝蒂"
+      }
+    },
+    "North Las Vegas": {
+      "cat": 4,
+      "callsign": "北拉斯维加斯",
+      "id": 15,
+      "runways": [
+        {
+          "course": 1.6145349740982,
+          "Name": 25,
+          "position": {
+            "y": 679.27984619141,
+            "x": -400891.5,
+            "z": -31726.953125
+          },
+          "length": 1442.9757080078,
+          "width": 20
+        },
+        {
+          "course": 0.81430453062057,
+          "Name": 7,
+          "position": {
+            "y": 679.27984619141,
+            "x": -401271.71875,
+            "z": -31906.73046875
+          },
+          "length": 1442.9757080078,
+          "width": 20
+        },
+        {
+          "course": -2.3266966342926,
+          "Name": 30,
+          "position": {
+            "y": 679.27984619141,
+            "x": -401445.4375,
+            "z": -31412.177734375
+          },
+          "length": 1362.8685302734,
+          "width": 20
+        }
+      ],
+      "point": [
+        36.213364566271,
+        -115.18673756618,
+        679.27984619141
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "North Las Vegas",
+        "displayName": "北拉斯维加斯"
+      }
+    },
+    "Mina": {
+      "cat": 4,
+      "callsign": "米娜",
+      "id": 14,
+      "runways": [
+        {
+          "course": 0.4801319539547,
+          "Name": 13,
+          "position": {
+            "y": 1390.5122070312,
+            "x": -161504.46875,
+            "z": -289784.75
+          },
+          "length": 1287.0180664062,
+          "width": 60
+        }
+      ],
+      "point": [
+        38.374546852088,
+        -118.09349931622,
+        1390.5122070312
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Mina",
+        "displayName": "米娜"
+      }
+    }
+  }

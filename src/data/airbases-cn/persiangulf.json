@@ -1,0 +1,1069 @@
+{
+    "Sharjah Intl": {
+      "cat": 4,
+      "callsign": "沙迦国际机场",
+      "id": 14,
+      "runways": [
+        {
+          "course": 0.99499994516373,
+          "Name": 30,
+          "position": {
+            "y": 29.999982833862,
+            "x": -92544.09375,
+            "z": -73373.6015625
+          },
+          "length": 3166.4343261719,
+          "width": 60
+        },
+        {
+          "course": 0.99541771411896,
+          "Name": 12,
+          "position": {
+            "y": 29.999982833862,
+            "x": -92789.34375,
+            "z": -73459.0625
+          },
+          "length": 3166.4343261719,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.322796067752,
+        55.531388153673,
+        29.999982833862
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sharjah Intl",
+        "displayName": "沙迦国际机场"
+      }
+    },
+    "Khasab": {
+      "cat": 4,
+      "callsign": "海塞卜",
+      "id": 10,
+      "runways": [
+        {
+          "course": 2.896968126297,
+          "Name": 19,
+          "position": {
+            "y": 14.490728378296,
+            "x": -219.72692871094,
+            "z": -177.7077331543
+          },
+          "length": 2289.9772949219,
+          "width": 20
+        }
+      ],
+      "point": [
+        26.179806360704,
+        56.24317158197,
+        14.490728378296
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Khasab",
+        "displayName": "海塞卜"
+      }
+    },
+    "Tunb Island AFB": {
+      "cat": 4,
+      "callsign": "通布岛空军基地",
+      "id": 8,
+      "runways": [
+        {
+          "course": -0.4854057431221,
+          "Name": 3,
+          "position": {
+            "y": 13.000012397766,
+            "x": 10515.44140625,
+            "z": -92440.328125
+          },
+          "length": 1859.2231445312,
+          "width": 20
+        }
+      ],
+      "point": [
+        26.251538702312,
+        55.311280020098,
+        13.000012397766
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tunb Island AFB",
+        "displayName": "通布岛空军基地"
+      }
+    },
+    "Quasoura_airport": {
+      "cat": 4,
+      "callsign": "Quasoura_airport",
+      "id": 30,
+      "runways": [
+        {
+          "course": 1.5701475143433,
+          "Name": 27,
+          "position": {
+            "y": 100.47110748291,
+            "x": -374897.3125,
+            "z": -123072.515625
+          },
+          "length": 2841.7741699219,
+          "width": 30
+        }
+      ],
+      "point": [
+        22.775988239359,
+        55.077137969517,
+        100.47110748291
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Quasoura_airport",
+        "displayName": ""
+      }
+    },
+    "Al Ain Intl": {
+      "cat": 4,
+      "callsign": "艾因国际机场",
+      "id": 25,
+      "runways": [
+        {
+          "course": 3.0013363361359,
+          "Name": 19,
+          "position": {
+            "y": 248.0495300293,
+            "x": -211058.15625,
+            "z": -65421.1796875
+          },
+          "length": 3434.4758300781,
+          "width": 60
+        }
+      ],
+      "point": [
+        24.276767283196,
+        55.611735832913,
+        248.0495300293
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al Ain Intl",
+        "displayName": "艾因国际机场"
+      }
+    },
+    "Al Minhad AFB": {
+      "cat": 4,
+      "callsign": "艾尔明翰空军基地",
+      "id": 12,
+      "runways": [
+        {
+          "course": 1.5707596540451,
+          "Name": 27,
+          "position": {
+            "y": 58.147457122803,
+            "x": -126013.71875,
+            "z": -89133.46875
+          },
+          "length": 3616.6137695312,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.026805920475,
+        55.383678016973,
+        58.147457122803
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al Minhad AFB",
+        "displayName": "艾尔明翰空军基地"
+      }
+    },
+    "Shiraz Intl": {
+      "cat": 4,
+      "callsign": "设拉子国际机场",
+      "id": 19,
+      "runways": [
+        {
+          "course": 1.1048443317413,
+          "Name": 29,
+          "position": {
+            "y": 1487.0014648438,
+            "x": 381101.03125,
+            "z": -351636.5
+          },
+          "length": 4045.1416015625,
+          "width": 60
+        },
+        {
+          "course": 1.104762673378,
+          "Name": 11,
+          "position": {
+            "y": 1487.0014648438,
+            "x": 380690.9375,
+            "z": -351839.3125
+          },
+          "length": 4045.1416015625,
+          "width": 60
+        }
+      ],
+      "point": [
+        29.533103964275,
+        52.609894223947,
+        1487.0014648438
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Shiraz Intl",
+        "displayName": "设拉子国际机场"
+      }
+    },
+    "Fujairah Intl": {
+      "cat": 4,
+      "callsign": "富查伊拉国际机场",
+      "id": 7,
+      "runways": [
+        {
+          "course": 1.1745272874832,
+          "Name": 29,
+          "position": {
+            "y": 18.52036857605,
+            "x": -117531.96875,
+            "z": 7939.275390625
+          },
+          "length": 2876.5705566406,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.105735807567,
+        56.340423943738,
+        18.52036857605
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Fujairah Intl",
+        "displayName": "富查伊拉国际机场"
+      }
+    },
+    "Jiroft": {
+      "cat": 4,
+      "callsign": "吉罗夫特",
+      "id": 27,
+      "runways": [
+        {
+          "course": -2.239265203476,
+          "Name": 13,
+          "position": {
+            "y": 812.00085449219,
+            "x": 282607.96875,
+            "z": 141685.25
+          },
+          "length": 2791.9953613281,
+          "width": 30
+        }
+      ],
+      "point": [
+        28.731593220974,
+        57.664118826397,
+        812.00085449219
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Jiroft",
+        "displayName": "吉罗夫特"
+      }
+    },
+    "Bandar Abbas Intl": {
+      "cat": 4,
+      "callsign": "阿巴斯港国际机场",
+      "id": 2,
+      "runways": [
+        {
+          "course": -0.48915511369705,
+          "Name": 3,
+          "position": {
+            "y": 5.587854385376,
+            "x": 115765.8828125,
+            "z": 14257.96875
+          },
+          "length": 3547.90625,
+          "width": 60
+        }
+      ],
+      "point": [
+        27.203638553985,
+        56.3703560378,
+        5.587854385376
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Bandar Abbas Intl",
+        "displayName": "阿巴斯港国际机场"
+      }
+    },
+    "Kerman": {
+      "cat": 4,
+      "callsign": "克尔曼",
+      "id": 18,
+      "runways": [
+        {
+          "course": 0.37768515944481,
+          "Name": 34,
+          "position": {
+            "y": 1751.4256591797,
+            "x": 454116.8125,
+            "z": 71096.0859375
+          },
+          "length": 3652.0500488281,
+          "width": 60
+        }
+      ],
+      "point": [
+        30.257695568151,
+        56.958269051762,
+        1751.4256591797
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kerman",
+        "displayName": "克尔曼"
+      }
+    },
+    "Dubai Intl": {
+      "cat": 4,
+      "callsign": "迪拜国际机场",
+      "id": 5,
+      "runways": [
+        {
+          "course": 1.0105022192001,
+          "Name": 30,
+          "position": {
+            "y": 5.0000047683716,
+            "x": -100594.375,
+            "z": -88875.375
+          },
+          "length": 3349.6403808594,
+          "width": 60
+        },
+        {
+          "course": 1.0103738307953,
+          "Name": 12,
+          "position": {
+            "y": 5.0000047683716,
+            "x": -101962.296875,
+            "z": -87414.359375
+          },
+          "length": 3349.6403808594,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.248265300858,
+        55.379295777402,
+        5.0000047683716
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Dubai Intl",
+        "displayName": "迪拜国际机场"
+      }
+    },
+    "Liwa AFB": {
+      "cat": 4,
+      "callsign": "利瓦空军基地",
+      "id": 29,
+      "runways": [
+        {
+          "course": -2.3091516494751,
+          "Name": 13,
+          "position": {
+            "y": 121.93011474609,
+            "x": -275765.53125,
+            "z": -248213.578125
+          },
+          "length": 3282.2421875,
+          "width": 30
+        }
+      ],
+      "point": [
+        23.660697450016,
+        53.812497591899,
+        121.93011474609
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Liwa AFB",
+        "displayName": "利瓦空军基地"
+      }
+    },
+    "Kish Intl": {
+      "cat": 4,
+      "callsign": "基什国际机场",
+      "id": 24,
+      "runways": [
+        {
+          "course": -1.6790035963058,
+          "Name": 10,
+          "position": {
+            "y": 35.000034332275,
+            "x": 42784.2890625,
+            "z": -225094.046875
+          },
+          "length": 3236.1145019531,
+          "width": 60
+        },
+        {
+          "course": -1.6790071725845,
+          "Name": 28,
+          "position": {
+            "y": 35.000034332275,
+            "x": 42486.8828125,
+            "z": -225123.078125
+          },
+          "length": 3236.1145019531,
+          "width": 60
+        }
+      ],
+      "point": [
+        26.529651099908,
+        53.964909162786,
+        35.000034332275
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Kish Intl",
+        "displayName": "基什国际机场"
+      }
+    },
+    "Qeshm Island": {
+      "cat": 4,
+      "callsign": "格什姆岛",
+      "id": 13,
+      "runways": [
+        {
+          "course": 2.2687613964081,
+          "Name": 23,
+          "position": {
+            "y": 8.0288496017456,
+            "x": 64800.71484375,
+            "z": -33383.48046875
+          },
+          "length": 4050.1711425781,
+          "width": 60
+        }
+      ],
+      "point": [
+        26.76633161238,
+        55.918070160223,
+        8.0288496017456
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Qeshm Island",
+        "displayName": "格什姆岛"
+      }
+    },
+    "Havadarya": {
+      "cat": 4,
+      "callsign": "哈瓦那",
+      "id": 9,
+      "runways": [
+        {
+          "course": 1.7615092992783,
+          "Name": 26,
+          "position": {
+            "y": 15.475476264954,
+            "x": 109297.828125,
+            "z": -6278.7231445312
+          },
+          "length": 2225.2724609375,
+          "width": 60
+        }
+      ],
+      "point": [
+        27.159927526116,
+        56.183089447173,
+        15.475476264954
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Havadarya",
+        "displayName": "哈瓦那"
+      }
+    },
+    "Bandar Lengeh": {
+      "cat": 4,
+      "callsign": "伦格港",
+      "id": 3,
+      "runways": [
+        {
+          "course": -1.423687338829,
+          "Name": 8,
+          "position": {
+            "y": 24.653238296509,
+            "x": 41536.40625,
+            "z": -140987.328125
+          },
+          "length": 2324.2919921875,
+          "width": 60
+        }
+      ],
+      "point": [
+        26.530817420578,
+        54.813116140778,
+        24.653238296509
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Bandar Lengeh",
+        "displayName": "伦格港"
+      }
+    },
+    "Al Maktoum Intl": {
+      "cat": 4,
+      "callsign": "阿勒马克图姆国际机场",
+      "id": 6,
+      "runways": [
+        {
+          "course": 1.0124734640121,
+          "Name": 30,
+          "position": {
+            "y": 37.618499755859,
+            "x": -140127.671875,
+            "z": -110068.890625
+          },
+          "length": 3505.3898925781,
+          "width": 60
+        }
+      ],
+      "point": [
+        24.888624487709,
+        55.174919966811,
+        37.618499755859
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al Maktoum Intl",
+        "displayName": "阿勒马克图姆国际机场"
+      }
+    },
+    "Lar": {
+      "cat": 4,
+      "callsign": "拉尔",
+      "id": 11,
+      "runways": [
+        {
+          "course": -1.577064871788,
+          "Name": 9,
+          "position": {
+            "y": 803.32891845703,
+            "x": 168977.578125,
+            "z": -182359.640625
+          },
+          "length": 2926.3073730469,
+          "width": 60
+        }
+      ],
+      "point": [
+        27.674804842122,
+        54.368317250382,
+        803.32891845703
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Lar",
+        "displayName": "拉尔"
+      }
+    },
+    "Bandar-e-Jask": {
+      "cat": 4,
+      "callsign": "贾斯克港",
+      "id": 21,
+      "runways": [
+        {
+          "course": -1.0753262042999,
+          "Name": 6,
+          "position": {
+            "y": 7.9505105018616,
+            "x": -57247.5,
+            "z": 156196.5
+          },
+          "length": 2085.7421875,
+          "width": 30
+        }
+      ],
+      "point": [
+        25.650484470488,
+        57.792125537415,
+        7.9505105018616
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Bandar-e-Jask",
+        "displayName": "贾斯克港"
+      }
+    },
+    "Sas Al Nakheel": {
+      "cat": 4,
+      "callsign": "阿纳奇机场",
+      "id": 20,
+      "runways": [
+        {
+          "course": -2.8316378593445,
+          "Name": 16,
+          "position": {
+            "y": 2.9453413486481,
+            "x": -189610.296875,
+            "z": -175974.140625
+          },
+          "length": 1642.0280761719,
+          "width": 30
+        }
+      ],
+      "point": [
+        24.448211362508,
+        54.514696522843,
+        2.9453413486481
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sas Al Nakheel",
+        "displayName": "阿纳奇机场"
+      }
+    },
+    "Sir Abu Nuayr": {
+      "cat": 4,
+      "callsign": "锡尔阿布努艾尔",
+      "id": 17,
+      "runways": [
+        {
+          "course": 1.4034515619278,
+          "Name": 28,
+          "position": {
+            "y": 7.6827998161316,
+            "x": -103102.875,
+            "z": -202973.078125
+          },
+          "length": 679.58721923828,
+          "width": 20
+        }
+      ],
+      "point": [
+        25.216154518016,
+        54.23693990531,
+        7.6827998161316
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sir Abu Nuayr",
+        "displayName": "锡尔阿布努艾尔"
+      }
+    },
+    "Al-Bateen": {
+      "cat": 4,
+      "callsign": "阿尔拜汀",
+      "id": 23,
+      "runways": [
+        {
+          "course": -2.2529275417328,
+          "Name": 13,
+          "position": {
+            "y": 3.6506268978119,
+            "x": -190946.5625,
+            "z": -181928.28125
+          },
+          "length": 2075.2326660156,
+          "width": 60
+        }
+      ],
+      "point": [
+        24.434059322946,
+        54.450706215697,
+        3.6506268978119
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al-Bateen",
+        "displayName": "阿尔拜汀"
+      }
+    },
+    "Tunb Kochak": {
+      "cat": 4,
+      "callsign": "小通布岛",
+      "id": 16,
+      "runways": [
+        {
+          "course": 1.7184578180313,
+          "Name": 26,
+          "position": {
+            "y": 4.6347489356995,
+            "x": 9023.4296875,
+            "z": -109467.078125
+          },
+          "length": 756.40313720703,
+          "width": 20
+        }
+      ],
+      "point": [
+        26.243605485601,
+        55.149352101732,
+        4.6347489356995
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Tunb Kochak",
+        "displayName": "小通布岛"
+      }
+    },
+    "Al Dhafra AFB": {
+      "cat": 4,
+      "callsign": "迪哈夫拉空军基地",
+      "id": 4,
+      "runways": [
+        {
+          "course": -2.2330610752106,
+          "Name": 13,
+          "position": {
+            "y": 16.000015258789,
+            "x": -211027.78125,
+            "z": -173240
+          },
+          "length": 3475.7932128906,
+          "width": 60
+        },
+        {
+          "course": -2.2331273555756,
+          "Name": 31,
+          "position": {
+            "y": 16.000015258789,
+            "x": -212946.265625,
+            "z": -172936.46875
+          },
+          "length": 3475.7932128906,
+          "width": 60
+        }
+      ],
+      "point": [
+        24.25792911231,
+        54.534202504328,
+        16.000015258789
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Al Dhafra AFB",
+        "displayName": "迪哈夫拉空军基地"
+      }
+    },
+    "Sirri Island": {
+      "cat": 4,
+      "callsign": "锡里岛",
+      "id": 15,
+      "runways": [
+        {
+          "course": 0.92083036899567,
+          "Name": 30,
+          "position": {
+            "y": 5.4417409896851,
+            "x": -26946.10546875,
+            "z": -170745.015625
+          },
+          "length": 2268.7822265625,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.903343862392,
+        54.548214653399,
+        5.4417409896851
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Sirri Island",
+        "displayName": "锡里岛"
+      }
+    },
+    "Abu Dhabi Intl": {
+      "cat": 4,
+      "callsign": "阿布扎比国际机场",
+      "id": 22,
+      "runways": [
+        {
+          "course": -2.2472040653229,
+          "Name": 13,
+          "position": {
+            "y": 28.000028610229,
+            "x": -188457.46875,
+            "z": -162030.984375
+          },
+          "length": 3906.7995605469,
+          "width": 60
+        },
+        {
+          "course": 0.8945032954216,
+          "Name": 31,
+          "position": {
+            "y": 28.000028610229,
+            "x": -190960.8125,
+            "z": -162107.015625
+          },
+          "length": 3906.7995605469,
+          "width": 60
+        },
+        {
+          "course": -2.246999502182,
+          "Name": 31,
+          "position": {
+            "y": 28.000028610229,
+            "x": -189781.296875,
+            "z": -163576.78125
+          },
+          "length": 3031.6047363281,
+          "width": 60
+        }
+      ],
+      "point": [
+        24.464722760717,
+        54.639226001065,
+        28.000028610229
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Abu Dhabi Intl",
+        "displayName": "阿布扎比国际机场"
+      }
+    },
+    "Abu Musa Island": {
+      "cat": 4,
+      "callsign": "阿布穆萨岛",
+      "id": 1,
+      "runways": [
+        {
+          "course": -1.4692361354828,
+          "Name": 8,
+          "position": {
+            "y": 5.0000047683716,
+            "x": -31505.2734375,
+            "z": -121335.3125
+          },
+          "length": 2321.3757324219,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.875041761239,
+        55.021382072783,
+        5.0000047683716
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Abu Musa Island",
+        "displayName": "阿布穆萨岛"
+      }
+    },
+    "Lavan Island": {
+      "cat": 4,
+      "callsign": "拉万岛",
+      "id": 26,
+      "runways": [
+        {
+          "course": -1.9603799581528,
+          "Name": 11,
+          "position": {
+            "y": 22.910776138306,
+            "x": 75789.7421875,
+            "z": -286801.4375
+          },
+          "length": 2509.8513183594,
+          "width": 60
+        }
+      ],
+      "point": [
+        26.815354172873,
+        53.3416042246,
+        22.910776138306
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Lavan Island",
+        "displayName": "拉万岛"
+      }
+    },
+    "Ras Al Khaimah Intl": {
+      "cat": 4,
+      "callsign": "哈伊马角国际机场",
+      "id": 28,
+      "runways": [
+        {
+          "course": 0.25815680623055,
+          "Name": 35,
+          "position": {
+            "y": 21.589021682739,
+            "x": -61624.484375,
+            "z": -30795.6484375
+          },
+          "length": 2562.3845214844,
+          "width": 60
+        }
+      ],
+      "point": [
+        25.602262321804,
+        55.941864730965,
+        21.589021682739
+      ],
+      "desc": {
+        "life": 3600,
+        "attributes": {
+          "Airfields": true
+        },
+        "_origin": "",
+        "category": 0,
+        "typeName": "Ras Al Khaimah Intl",
+        "displayName": "哈伊马角国际机场"
+      }
+    }
+  }
