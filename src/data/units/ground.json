@@ -3,90 +3,90 @@
     "code": "leopard-2A4-TRS",
     "dcs_codes": ["leopard-2A4_trs"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leopard 2A4 MBT (Turkey)",
+    "name": "豹2A4主战坦克(土耳其)",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["leopard-2A4"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leopard 2A4 MBT",
+    "name": "豹2A4主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["Challenger2"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Challenger 2 MBT",
+    "name": "挑战者2主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["Leopard-2A5"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leopard 2A5 MBT",
+    "name": "豹2A5主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["M-1 Abrams"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "M1A1 Abrams MBT",
+    "name": "M1艾布拉姆斯主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "Leopard 2 MBT",
     "dcs_codes": ["Leopard-2"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leopard 2 MBT",
+    "name": "豹2主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "Leclerc MBT",
     "dcs_codes": ["Leclerc"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leclerc MBT",
+    "name": "勒克莱尔主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "T-90 MBT",
     "dcs_codes": ["T-90"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "T-90 MBT",
+    "name": "T-90主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "Freya EWR (WW2 GER)",
     "dcs_codes": ["FuMG-401"],
     "mil_std_2525_d": 10001500002203000000,
-    "name": "Freya EWR (WW2 GER)"
+    "name": "弗雷亚雷达(二战装备)"
   },
   {
     "code": "T-80UD MBT",
     "dcs_codes": ["T-80UD"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "T-80UD MBT",
+    "name": "T-80UD主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "ZTZ96B MBT",
     "dcs_codes": ["ZTZ96B"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "ZTZ96B MBT",
+    "name": "ZTZ-96B主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["T-72B"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "T-72B MBT",
+    "name": "T-72B主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["T-72B3"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "T-72B3 MBT",
+    "name": "T-72B3主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
@@ -99,146 +99,146 @@
     "code": "Electric locomotive",
     "dcs_codes": ["Electric locomotive"],
     "mil_std_2525_d": 10001500001501000000,
-    "name": "Electric locomotive"
+    "name": "电力机车"
   },
   {
     "code": "Gepard",
     "dcs_codes": ["Gepard"],
     "mil_std_2525_d": 10001000001301015000,
-    "name": "Gepard SPAAG"
+    "name": "猎豹式自行高射炮"
   },
   {
     "code": "FuSe-65",
     "dcs_codes": ["FuSe-65"],
     "mil_std_2525_d": 10001500002203000000,
-    "name": "Würzburg-Riese Radar (WW2 GER)"
+    "name": "维尔茨堡雷达(二战装备)"
   },
   {
     "code": "Steam Locomotive",
     "dcs_codes": ["Locomotive"],
     "mil_std_2525_d": 10001500001501000000,
-    "name": "Steam Locomotive"
+    "name": "蒸汽机车"
   },
   {
     "code": "Leopard 1A3 MBT",
     "dcs_codes": ["Leopard1A3"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Leopard 1A3 MBT",
+    "name": "豹1A3型主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["Chieftain_mk3"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Chieftan Mk3 MBT",
+    "name": "酋长式主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["Elefant_SdKfz_184"],
     "mil_std_2525_d": 10001000001204010000,
-    "name": "Elefant/Ferdinand Tank Destroyer"
+    "name": "象式自行反坦克炮"
   },
   {
     "code": null,
     "dcs_codes": ["Tiger_II_H"],
     "mil_std_2525_d": 10001500001202030000,
-    "name": "Tiger II H Heavy Tank",
+    "name": "虎II坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "Merkava Mk4",
     "dcs_codes": ["Merkava_Mk4"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "Merkava Mk4 MBT",
+    "name": "梅卡瓦MK4主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "Tiger I",
     "dcs_codes": ["Tiger_I"],
     "mil_std_2525_d": 10001500001202030000,
-    "name": "Tiger I Heavy Tank",
+    "name": "虎I坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": "ZSU-57-2",
     "dcs_codes": ["ZSU_57_2"],
     "mil_std_2525_d": 10001000001301010000,
-    "name": "ZSU-57-2 SPAAG"
+    "name": "ZSU-57-2自行防空炮"
   },
   {
     "code": null,
     "dcs_codes": ["T-55"],
     "mil_std_2525_d": 10001500001202000000,
-    "name": "T-55 MBT",
+    "name": "T-55主战坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["JagdPz_IV"],
     "mil_std_2525_d": 10001000001204010000,
-    "name": "Jagdpanzer IV Tank Destroyer"
+    "name": "四号坦克歼击车"
   },
   {
     "code": null,
     "dcs_codes": ["Stug_IV"],
     "mil_std_2525_d": 10001500001202020000,
-    "name": "Stug IV Assault Gun"
+    "name": "四号突击炮"
   },
   {
     "code": null,
     "dcs_codes": ["M12_GMC"],
     "mil_std_2525_d": 10001000001303010000,
-    "name": "M12 Gun Motor Carriage Mobile Artillery"
+    "name": "M12炮车"
   },
   {
     "code": null,
     "dcs_codes": ["Jagdpanther_G1"],
     "mil_std_2525_d": 10001000001204010000,
-    "name": "Jagdpanther Tank Destroyer"
+    "name": "猎豹式自行反坦克炮"
   },
   {
     "code": null,
     "dcs_codes": ["SturmPzIV"],
     "mil_std_2525_d": 10001000001303010000,
-    "name": "Sturmpanzer IV Brummbar Mobile Artillery"
+    "name": "灰熊式突击炮"
   },
   {
     "code": null,
     "dcs_codes": ["M30_CC"],
     "mil_std_2525_d": 10001000001303010000,
-    "name": "M30 Cargo Carrier"
+    "name": "M30货运车"
   },
   {
     "code": null,
     "dcs_codes": ["Pz_V_Panther_G"],
     "mil_std_2525_d": 10001500001202020000,
-    "name": "Panther G Medium Tank"
+    "name": "黑豹G型中型坦克"
   },
   {
     "code": null,
     "dcs_codes": ["M4A4_Sherman_FF"],
     "mil_std_2525_d": 10001500001202020000,
-    "name": "M4A4 Sherman Firefly Medium Tank"
+    "name": "M4A4雪曼中型坦克"
   },
   {
     "code": null,
     "dcs_codes": ["Churchill_VII"],
     "mil_std_2525_d": 10001500001202030000,
-    "name": "Churchill VII Heavy Tank",
+    "name": "丘吉尔VII重型坦克",
     "sidc": "S-G-EVATH-"
   },
   {
     "code": null,
     "dcs_codes": ["Centaur_IV"],
     "mil_std_2525_d": 10001500001202020000,
-    "name": "Centaur IV Medium Tank"
+    "name": "半人马IV中型坦克"
   },
   {
     "code": null,
     "dcs_codes": ["Cromwell_IV"],
     "mil_std_2525_d": 10001500001202020000,
-    "name": "Cromwell IV Medium Tank"
+    "name": "克伦威尔IV坦克"
   },
   {
     "code": null,
@@ -262,49 +262,49 @@
     "code": "Sd.Kfz. 234",
     "dcs_codes": ["Sd_Kfz_234_2_Puma"],
     "mil_std_2525_d": 100001000001205000000,
-    "name": "Sd.Kfz. 234"
+    "name": "第234号特种车辆"
   },
   {
     "code": "ZBD04A",
     "dcs_codes": ["ZBD04A"],
     "mil_std_2525_d": 10001000001205000000,
-    "name": "ZBD04A"
+    "name": "ZBD-04A步兵战车"
   },
   {
     "code": "M6",
     "dcs_codes": ["M6 Linebacker"],
     "mil_std_2525_d": 10001000331301020000,
-    "name": "Linebacker"
+    "name": "M6线卫"
   },
   {
     "code": "M-2",
     "dcs_codes": ["M-2 Bradley"],
     "mil_std_2525_d": 10001000001205000000,
-    "name": "M-2 Bradley"
+    "name": "M2布拉德利"
   },
   {
     "code": "Roland Radar",
     "dcs_codes": ["Roland Radar"],
     "mil_std_2525_d": 10001500002203000000,
-    "name": "Roland Radar"
+    "name": "罗兰雷达"
   },
   {
     "code": "Roland ADS",
     "dcs_codes": ["Roland ADS"],
     "mil_std_2525_d": 10001000331301026000,
-    "name": "Roland ADS"
+    "name": "罗兰ADS"
   },
   {
     "code": "BMP-3",
     "dcs_codes": ["BMP-3"],
     "mil_std_2525_d": 10001000001205010000,
-    "name": "BMP-3 Infantry Fighting Vehicle"
+    "name": "BMP-3步兵战车"
   },
   {
     "code": "S-300PS",
     "dcs_codes": ["S-300PS 5P85C ln"],
     "mil_std_2525_d": 10001500001111080000,
-    "name": "S-300 Surface to Air Missle"
+    "name": "S-300远程地对空导弹"
   },
   {
     "code": null,
