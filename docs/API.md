@@ -5,7 +5,7 @@
 ### Server List
 
 ```
-$ curl https://sneaker.example.com/api/servers
+$ curl https://sneaker.example.com/gci/api/servers
 [
   {
     "name": "saw",
@@ -45,7 +45,7 @@ $ curl https://sneaker.example.com/api/servers
 ### Server Information
 
 ```
-$ curl https://sneaker.example.com/api/servers/saw
+$ curl https://sneaker.example.com/gci/api/servers/saw
 {
   "name": "saw",
   "ground_unit_modes": [
@@ -85,7 +85,7 @@ $ curl https://sneaker.example.com/api/servers/saw
 This is a long-poll SSE HTTP connection.
 
 ```
-$ curl https://sneaker.example.com/api/servers/saw/events
+$ curl https://sneaker.example.com/gci/api/servers/saw/events
 data: {
   "d": {
     "session_id": "2022-01-26T17:22:03.013Z",
