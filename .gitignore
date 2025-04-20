@@ -19,3 +19,5 @@ yarn-error.log*
 *.bak
 *.exe
 cmd/sneaker-server/resource.syso
+
+.vscode/
