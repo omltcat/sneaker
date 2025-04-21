@@ -8,11 +8,14 @@ import { Caucasus } from "./dcs/maps/Caucasus";
 import { DCSMap } from "./dcs/maps/DCSMap";
 import { Marianas } from "./dcs/maps/Marianas";
 import { PersianGulf } from "./dcs/maps/PersianGulf";
+import { Sinai } from "./dcs/maps/Sinai";
 import { Syria } from "./dcs/maps/Syria";
 import { Falklands } from "./dcs/maps/Falklands";
 import { Normandy } from "./dcs/maps/Normandy";
 import { TheChannel } from "./dcs/maps/TheChannel";
 import { Nevada } from "./dcs/maps/Nevada";
+import { Kola } from "./dcs/maps/Kola";
+import { Afghanistan } from "./dcs/maps/Afghanistan";
 import { Server, serverStore } from "./stores/ServerStore";
 import { route } from "./util";
 
@@ -132,6 +135,8 @@ function ServerContainer({ serverName }: { serverName: string }) {
     console.log(refLat, refLng);
   if (refLat >= 38 && refLat <= 48 && refLng >= 26 && refLng <= 48) {
     dcsMap = Caucasus;
+  } else if (refLat >= 25 && refLat < 34 && refLng >= 27 && refLng <= 37) {
+    dcsMap = Sinai;
   } else if (refLat >= 28 && refLat < 38 && refLng >= 27 && refLng <= 42) {
     dcsMap = Syria;
   } else if (refLat >= 20 && refLat <= 33 && refLng >= 46 && refLng <= 64) {
@@ -140,12 +145,14 @@ function ServerContainer({ serverName }: { serverName: string }) {
     dcsMap = Marianas;
   } else if (refLat >= -59 && refLat <= -45 && refLng >= -88 && refLng <= -38) {
     dcsMap = Falklands;
-  } else if (refLat >= 45 && refLat <= 52 && refLng >= -6 && refLng <= 3) {
+  } else if (refLat >= 48 && refLat <= 52 && refLng >= -4 && refLng <= 4) {
     dcsMap = Normandy;
-  } else if (refLat >= 20 && refLat <= 40 && refLng >= -121 && refLng <= -112) {
+  } else if (refLat >= 32 && refLat <= 40 && refLng >= -122 && refLng <= -112) {
     dcsMap = Nevada;
-  } else if (refLat >= 46 && refLat <= 52 && refLng >= -4 && refLng <= 4) {
-    dcsMap = TheChannel;
+  } else if (refLat >= 62 && refLat <= 73 && refLng >= -4 && refLng <= 40) {
+	dcsMap = Kola;
+  } else if (refLat >= 28 && refLat <= 39 && refLng >= 60 && refLng <= 74) {
+	dcsMap = Afghanistan;
   } else {
     console.log(refLat, refLng);
     return (

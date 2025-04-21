@@ -2,12 +2,14 @@
 ::set GOARCH=386
 
 echo Cleaning up...
-del cmd\sneaker-server\resource.syso
-del /F dist\*.mp3 
-del /F dist\*.LICENSE.txt 
-del /F dist\*.js 
-del /F dist\*.html 
-del /F dist\*.css 
+del sneaker.exe 2>NUL
+del cmd\sneaker-server\resource.syso 2>NUL
+del /F dist\*.ico 2>NUL
+del /F dist\*.mp3 2>NUL
+del /F dist\*.LICENSE.txt 2>NUL
+del /F dist\*.js 2>NUL
+del /F dist\*.html 2>NUL
+del /F dist\*.css 2>NUL
 go install github.com/josephspurrier/goversioninfo/cmd/goversioninfo@latest
 call yarn
 call yarn build
