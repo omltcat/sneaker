@@ -168,8 +168,8 @@ export function formatCounter(seconds: number): string {
 
 export function route(path: string): string {
   return process.env.NODE_ENV === "production"
-    ? `/gci/api${path}`
-    : `http://localhost:7789/gci/api${path}`;
+    ? `/api${path}`
+    : `http://localhost:7789/api${path}`;
 }
 
 export function getBearingMap(

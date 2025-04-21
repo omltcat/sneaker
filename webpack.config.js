@@ -8,7 +8,7 @@ module.exports = {
   output: {
     filename: "[name].[contenthash].js",
     path: path.resolve(__dirname, "dist"),
-    publicPath: "/gci/static/",
+    publicPath: "/static/",
   },
   resolve: {
     extensions: [".tsx", ".ts", ".js"],
@@ -47,11 +47,11 @@ module.exports = {
   devServer: {
     static: {
       directory: path.join(__dirname, "public"),
-      publicPath: "/gci/static",
+      publicPath: "/static",
     },
     historyApiFallback: {
       rewrites: [
-        { from: /./, to: "/gci/static/index.html" },
+        { from: /./, to: "/static/index.html" },
       ],
     },
     port: 3030,

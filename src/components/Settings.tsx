@@ -13,7 +13,7 @@ function SettingsHome() {
   return (
     <div className="flex flex-col gap-2 text-center mt-auto">
       <Link
-        to="/gci"
+        to="/"
         className="bg-red-100 border-red-300 text-red-400 border ml-2 p-1"
       >
         断开连接

@@ -30,7 +30,7 @@ Changes:
 
 Sneaker features a built-in Discord integration which provides basic server information and GCI duty tracking via Discord slash-commands.
 
-1. Create a new [Discord Application](https://discord.com/developers/applications) and configure the `Interactions Endpoint URL` to point at your Sneaker installations `/gci/api/discord/interactions` endpoint.
+1. Create a new [Discord Application](https://discord.com/developers/applications) and configure the `Interactions Endpoint URL` to point at your Sneaker installations `/api/discord/interactions` endpoint.
 2. Add a Bot to the application (this is used to DM users about GCI duty timeouts)
 3. Add the bot to your server by opening a link generated [here](https://discord.com/developers/applications/935306685692674078/oauth2/url-generator). You only need the `applications.commands` scope.
 4. Add the following to your `config.json`:

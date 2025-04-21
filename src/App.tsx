@@ -24,7 +24,7 @@ type ServerMetadata = {
 function ServerOption({ server }: { server: ServerMetadata }) {
   return (
     <Link
-      to={`/gci/servers/${server.name}`}
+      to={`/servers/${server.name}`}
       className="p-2 bg-gray-100 hover:bg-gray-200 border-gray-400 border rounded-sm shadow-sm w-full items-center flex flex-row"
     >
       <span className="text-3xl font-bold flex-grow">{server.name} </span>
@@ -43,8 +43,8 @@ function ServerConnectModal() {
     get,
   } = useFetch<Array<ServerMetadata>>(
     process.env.NODE_ENV === "production"
-      ? `/gci/api/servers`
-      : `http://localhost:7789/gci/api/servers`,
+      ? `/api/servers`
+      : `http://localhost:7789/api/servers`,
     []
   );
 
@@ -111,7 +111,7 @@ function ServerContainer({ serverName }: { serverName: string }) {
   }, [server, error, loading]);
 
   if (response.status === 404) {
-    return <Redirect to="/gci" />;
+    return <Redirect to="/" />;
   }
 
   if (error) {
@@ -163,10 +163,10 @@ function App() {
   return (
     <div className="bg-gray-700 max-w-full max-h-full w-full h-full">
       <Switch>
-        <Route exact path="/gci" component={ServerConnectModal} />
+        <Route exact path="/" component={ServerConnectModal} />
         <Route
           exact
-          path="/gci/servers/:serverName"
+          path="/servers/:serverName"
           render={({
             match: {
               params: { serverName },
